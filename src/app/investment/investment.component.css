@@ -1,0 +1,22 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+h2 {
+  padding: 2vh;
+  font-size: 5vh;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px black;
+}
+.content-section-header {
+  margin: auto;
+  width: 30vw;
+  background-color: navy;
+}
+.page-header-content img {
+  padding: 5vh;
+  margin-top: 5vh;
+}
+.page-header {
+  height: 35vh;
+}

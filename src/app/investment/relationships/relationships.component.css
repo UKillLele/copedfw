@@ -1,0 +1,26 @@
+.page {
+  text-align: center;
+}
+.page-header {
+  background-image: url('/assets/images/handshake.jpeg');
+  background-position: center;
+}
+.individual-container {
+  margin: 3vh;
+  height: 350px;
+  box-shadow: 2px 2px 5px black;
+}
+a {
+  color: white;
+  font-weight: bold;
+}
+h3 {
+  line-height: normal;
+}
+
+.individual-container:hover .individual-info {
+  height: 100%;
+}
+p {
+  font-size: 2.5vh;
+}

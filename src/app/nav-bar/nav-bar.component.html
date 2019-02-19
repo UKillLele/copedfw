@@ -1,0 +1,43 @@
+<div class="nav-outer-container">
+  <div class="img-container">
+    <a [routerLink]="['/home']"><img src="../../assets/images/logos/CopeLogo-07.png" alt="Cope Equities"></a>
+  </div>
+  <div class="hamburger-nav" (click)="toggle()">
+    <img src="../../assets/Hamburger_icon.png" alt="">
+    <div class="nav-container" *ngIf="show">
+      <div class="nav-item">
+        <a [routerLink]="['/home']" [routerLinkActive]="'active'">Home</a>
+      </div>
+      <div class="nav-item">
+        <a [routerLink]="['/about']" [routerLinkActive]="'active'">About</a>
+      </div>
+      <div class="nav-item">
+        <a [routerLink]="['/cope-additions']" [routerLinkActive]="'active'">Cope Additions</a>
+      </div>
+      <div class="nav-item">
+        <a [routerLink]="['/contact']" [routerLinkActive]="'active'">Contact</a>
+      </div>
+    </div>
+  </div>
+  <div class="nav-container">
+    <div class="nav-item">
+      <a [routerLink]="['/home']">Home</a>
+    </div>
+    <div class="nav-item">
+      <a [routerLink]="['/about']" [routerLinkActive]="'active'">About</a>
+    </div>
+    <div class="nav-item">
+      <div class="dropdown">
+        <a [routerLink]="['/cope-additions']" [routerLinkActive]="'active'">Cope Additions</a>
+        <div class="dropdown-container">
+          <div class="dropdown-content" *ngFor="let project of projects$ | async">
+            <a [routerLink]="['/cope-additions', project.id]" [routerLinkActive]="'active'" (click)="resetImage()">{{project.Title}}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="nav-item">
+      <a [routerLink]="['/contact']" [routerLinkActive]="'active'">Contact</a>
+    </div>
+  </div>
+</div>

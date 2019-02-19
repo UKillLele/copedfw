@@ -1,0 +1,92 @@
+<!-- This container holds the background color -->
+<div class="page" *ngIf="project$ | async as project">
+<!-- This container holds the parallax header background (navbar is in a container outside the page) -->
+  <img src="{{project.BackgroundImage}}" class="page-header" style="position: absolute;">
+  <div class="page-header">
+<!-- This container determines the size and alignment of the header -->
+    <div class="addition-header-content">
+<!-- This should remain even without an image for padding -->
+      <img class="addition-logo" src="{{project.AdditionLogo}}">
+      <h1 [style.color]="colorStyle(project)">{{project.Title}}</h1>
+    </div>
+  </div>
+<!-- This container holds the color for the divider and position -->
+  <div class="divider">
+    <h2>{{project.BannerText}}</h2>
+    <a [href]="buttonUrl(project)" target="_self"><button type="button" name="button" [style.background-color]="colorStyle(project)">{{project.ButtonText}}</button></a>
+  </div>
+<!-- This container holds everything below the header -->
+  <div class="contents-container">
+<!-- This container holds the main content of the page -->
+    <div class="container-right">
+<!-- This is the image and slider container -->
+      <div class="container-right-top">
+<!--This is an overlay for projects that are sold out -->
+          <img class="overlay" src="{{project.Overlay}}">
+<!-- This is the default image/video which is removed when another image is selected -->
+          <div [innerHTML]="imageHTML(project)" *ngIf="first" style="text-align: center;"></div>
+<!-- This is where the non-default images appear, removing the default -->
+          <div style="text-align: center;" *ngIf="selectedImage">
+            <a href="{{selectedImage}}">
+              <img src="{{selectedImage}}" alt="{{selectedImage}}" class="large-image">
+            </a>
+          </div>
+<!-- This is the small scroller -->
+        <div class="container-right-top-bottom">
+          <div class="scroller">
+<!-- This is the first image, which attaches to the default image -->
+            <div class="small-image">
+              <img src="{{project.DefaultImage}}" alt="{{project.DefaultImage}}" (click)="defaultSelect()">
+            </div>
+<!-- This is the selector for images -->
+            <div class="small-image" *ngFor="let image of project.Images">
+              <img src="{{image}}" alt="{{image}}" (click)="toggleSelect(image)">
+            </div>
+          </div>
+          </div>
+      </div>
+<!-- Map goes here. Doesn't match the plat size, which is annoying. -->
+      <div class="container-right-bottom-right">
+        <iframe class="map" [src]="mapURL(project)" width="640" height="480"></iframe>
+      </div>
+<!-- This is the interactive plat map -->
+      <div class="container-right-bottom-left">
+        <p class="{{project.Click}}" style="font-size: 4vh; z-index: 5; cursor: ">Click on lots for details</p>
+        <div [style]="svgStyle(project)" [innerHTML]="svgHTML(project)" (click)="openLot()"></div>
+        <img class="contents" src="{{project.Plat}}" alt="plat map">
+      </div>
+    </div>
+<!--This is the left sidebar -->
+    <div class="container-left">
+<!-- Fast Facts -->
+      <div class="container-left-top">
+        <h2 style="margin-top: 0px;">Fast Facts</h2>
+        <hr>
+        <ul *ngFor="let fact of project.FastFacts">
+          <li [innerHTML]="factHTML(fact)"></li>
+        </ul>
+      </div>
+<!-- Project Details -->
+      <div class="container-left-middle">
+        <h2>Details</h2>
+        <hr>
+        <p>{{project.Details}}</p>
+      </div>
+<!-- Project contact -->
+      <div class="container-left-bottom">
+        <h2>Contact</h2>
+        <hr>
+        <img src="{{project.ContactImage}}">
+        <h3>{{project.ContactName}}</h3>
+        <p style="margin-bottom: 1vh;"><a href="tel:{{project.ContactPhone}}">{{project.ContactPhone}}</a></p>
+        <p style="margin-top: 0px; margin-bottom: 5vh;"><a href="mailto:{{project.ContactEmail}}?subject={{project.Title}}">{{project.ContactEmail}}</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="iframe-container" (click)="display= false;" *ngIf="display">
+    <div class="iframe" id="iframe">
+      <button name="close" (click)="display= false;">x</button>
+      <iframe name="iframe" scrolling="no" onload="this.height=this.contentWindow.document.body.scrollHeight;"></iframe>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,51 @@
+.page {
+  background-image: none;
+  background-color: silver;
+}
+.container-left-top {
+  margin-top: 10vh;
+}
+.iframe-container-left-bottom {
+  padding-bottom: 20vh;
+}
+p {
+  font-size: 3vw;
+  margin: 0px;
+  margin-bottom: 2vh;
+}
+h2 {
+  font-size: 6vw;
+  margin: 0px;
+}
+.container-right-top {
+  height: 75vh;
+}
+.large-image {
+  width: 100%;
+  height: 65vh;
+  object-fit: contain;
+}
+@media only screen and (max-width: 600px) {
+  .iframe-container-left, .iframe-container-right {
+    width: 94%;
+    margin-top: 5vh;
+  }
+  .iframe-container-right {
+    padding-bottom: 15vh;
+  }
+  .iframe-container-left {
+    padding-bottom: 0px;
+  }
+  .iframe-container-left-bottom {
+    padding-bottom: 0px;
+  }
+  p {
+    font-size: 5vw;
+  }
+  h2 {
+    font-size: 8vw;
+  }
+  .empty {
+    padding-bottom: 0vh;
+  }
+}

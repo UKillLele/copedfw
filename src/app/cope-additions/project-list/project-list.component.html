@@ -1,0 +1,31 @@
+<div class="page">
+  <div class="page-header">
+    <div class="page-header-content">
+      <h1>Cope Additions</h1>
+      <p>
+        Find your new home in one of our premier neighborhoods.
+      </p>
+    </div>
+  </div>
+  <div class="content-container">
+    <div class="content-section-header">
+      <h2>
+        All Additions
+      </h2>
+    </div>
+    <div class="box-container">
+      <div class="individual-container" *ngFor="let project of projects$ | async">
+        <a [routerLink]="['/cope-additions', project.id]">
+          <img class="overlay" src="{{project.Overlay}}">
+          <img class="individual" src="{{project.BackgroundImage}}" alt="{{project.Title}}">
+          <div class="individual-description">
+            <h3>{{project.Title}}</h3>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="map-container">
+    <iframe class="map" src="https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&hl=en" width="640" height="480"></iframe>
+  </div>
+</div>

@@ -1,0 +1,21 @@
+<div class="page">
+  <div class="page-header">
+    <div class="page-header-content">
+      <h1>Relationships</h1>
+    </div>
+  </div>
+  <div class="box-container">
+    <div class="individual-container" *ngFor="let company of company">
+      <img class="individual" src="{{company.imageLocation}}" alt="{{company.name}}">
+      <div class="individual-description">
+        <div class="individual-info">
+          <h3>{{company.name}}</h3>
+          <p>{{company.companyLocation}}</p>
+          <a href="tel:{{company.companyPhone}}"><p>{{company.companyPhone}}</p></a>
+          <a href="mailto:{{company.companyEmail}}"><p>{{company.companyEmail}}</p></a>
+          <a href="{{company.companyWebsite}}"><p>{{company.companyWebsite}}</p></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

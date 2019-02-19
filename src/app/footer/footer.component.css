@@ -1,0 +1,14 @@
+p {
+  color: white;
+  background-color: rgba(192, 192, 192, 0.9);
+  text-align: center;
+  margin: auto;
+  color: navy;
+  text-shadow: 2px 2px 5px gray;
+  box-shadow:  -3px -3px 5px rgba(0, 0, 0, .5);
+}
+img {
+  height: 20px;
+  vertical-align: middle;
+  padding-left: 20px;
+}
