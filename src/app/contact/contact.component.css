@@ -1,7 +1,4 @@
-.page-header {
-  background-image: url('/assets/images/Dallas.jpg');
-}
-.map-container {
+map-container {
   width: 640px;
   max-width: 95%;
   margin: auto 5%;
@@ -14,7 +11,4 @@
   float: left;
   text-align: left;
   margin-left: 5%;
-}
-.contact-info a {
-  color: lightblue;
 }

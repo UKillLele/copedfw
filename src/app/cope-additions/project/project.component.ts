@@ -16,6 +16,7 @@ import { Project } from '../project';
 @Injectable()
 export class ProjectComponent implements OnInit {
   display: boolean;
+  display1: boolean;
   selectedImage: string;
   project$: Observable<Project>;
   first: boolean;
@@ -29,6 +30,7 @@ export class ProjectComponent implements OnInit {
   ) {
     this.first = true;
     this.display = false;
+    this.display1 = false;
   }
 
   ngOnInit() {
@@ -51,12 +53,15 @@ export class ProjectComponent implements OnInit {
   openLot() {
     if (window.innerWidth >= 1023) {
       this.display = true;
-      event.stopPropagation();
-    } else {
-      event.stopPropagation();
     }
   }
-  
+
+  openLargeImage() {
+    if (window.innerWidth >= 1023) {
+      this.display1 = true;
+    }
+  }
+
   defaultSelect() {
     this.selectedImage = '';
     this.first = true;
@@ -89,7 +94,16 @@ export class ProjectComponent implements OnInit {
   factHTML(fact: string) {
     return this.sanitizer.bypassSecurityTrustHtml(fact)
   }
+
+  contactStyle(project: { ContactImage: string; }) {
+    return this.sanitizer.bypassSecurityTrustStyle(project.ContactImage);
+  }
+
   buttonUrl(project: { ButtonLink: string; }) {
     return this.sanitizer.bypassSecurityTrustUrl(project.ButtonLink);
+  }
+
+  logoStyle(project: { AdditionLogo: string; }) {
+    return this.sanitizer.bypassSecurityTrustStyle(project.AdditionLogo);
   }
 }

@@ -2,6 +2,7 @@ import { Observable } from 'rxjs';
 import { switchMap } from 'rxjs/operators';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { DomSanitizer } from '@angular/platform-browser';
 
 import { CopeAdditionsService } from '../../cope-additions/cope-additions.service'
 import { Project } from '../../cope-additions/project'
@@ -17,7 +18,8 @@ import { Project } from '../../cope-additions/project'
 
   constructor(
     private service: CopeAdditionsService,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    public sanitizer: DomSanitizer
   ) {}
 
   ngOnInit() {
@@ -27,5 +29,12 @@ import { Project } from '../../cope-additions/project'
         return this.service.getProjects();
       })
     );
+  }
+
+  projectStyle(project: { BackgroundImage: string }) {
+    return this.sanitizer.bypassSecurityTrustStyle(project.BackgroundImage);
+  }
+  summaryHTML(project: { Summary: string }) {
+    return this.sanitizer.bypassSecurityTrustHtml(project.Summary);
   }
 }

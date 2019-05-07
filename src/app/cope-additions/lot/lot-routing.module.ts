@@ -24,7 +24,7 @@ const lotRoutes: Routes = [
   { path: 'cope-additions/8/:url', component: LotComponent8 },
   { path: 'cope-additions/9/:url', component: LotComponent9 },
   { path: 'cope-additions/10/:url', component: LotComponent10 },
-  { path: 'cope-additions/11/:url', component: LotComponent11 },
+  { path: 'cope-additions/11/:url', component: LotComponent11 }
 ];
 
 @NgModule({

@@ -2,7 +2,7 @@
   text-align: center;
 }
 .page-header {
-  background-image: url('/assets/images/handshake.jpeg');
+  background-image: url('/assets/images/handshake.jpg');
   background-position: center;
 }
 .individual-container {
@@ -17,7 +17,9 @@ a {
 h3 {
   line-height: normal;
 }
-
+.individual-container {
+  height: 25vw;
+}
 .individual-container:hover .individual-info {
   height: 100%;
 }

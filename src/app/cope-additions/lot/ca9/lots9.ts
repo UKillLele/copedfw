@@ -16,8 +16,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/1.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/1.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -35,8 +35,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/2.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/2.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -54,8 +54,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/3.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/3.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -73,8 +73,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/4.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/4.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -92,8 +92,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/5.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/5.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -111,8 +111,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/6.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/6.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -130,8 +130,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/7.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/7.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -149,8 +149,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/8.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/8.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -168,8 +168,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/9.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/9.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -187,8 +187,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/10.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/10.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -206,8 +206,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/11.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/11.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -225,8 +225,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/12.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/12.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -244,8 +244,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/13.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/13.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -263,8 +263,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/14.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/14.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -282,8 +282,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/15.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/15.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -301,8 +301,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/16.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/16.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -320,8 +320,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/17.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/17.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -339,8 +339,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/18.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/18.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -358,8 +358,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/19.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/19.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -377,8 +377,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/20.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/20.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -396,8 +396,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/21.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/21.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -415,8 +415,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/22.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/22.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -434,8 +434,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/23.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/23.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -453,8 +453,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/24.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/24.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -472,8 +472,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/25.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/25.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -491,8 +491,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/26.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/26.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -510,8 +510,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/27.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/27.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -529,8 +529,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/28.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/28.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -548,8 +548,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/29.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/29.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -567,8 +567,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/30.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/30.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -586,8 +586,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/31.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/31.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -605,8 +605,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/32.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/32.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -624,8 +624,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/33.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/33.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -643,8 +643,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/34.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/34.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -662,8 +662,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/35.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/35.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -681,8 +681,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/36.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/36.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -700,8 +700,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/37.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/37.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -719,8 +719,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/38.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/38.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -738,8 +738,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/39.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/39.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -757,8 +757,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/40.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/40.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -776,8 +776,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/41.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/41.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -795,8 +795,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/42.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/42.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -814,8 +814,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/43.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/43.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -833,8 +833,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/44.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/44.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -852,8 +852,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/45.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/45.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -871,8 +871,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/46.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/46.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -890,8 +890,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/47.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/47.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -909,8 +909,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/48.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/48.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -928,8 +928,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/49.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/49.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -947,8 +947,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/50.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/50.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -966,8 +966,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/51.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/51.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -985,8 +985,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/52.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/52.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1004,8 +1004,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/53.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/53.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1023,8 +1023,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/54.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/54.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1042,8 +1042,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/55.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/55.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1061,8 +1061,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/56.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/56.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1080,8 +1080,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/57.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/57.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1099,8 +1099,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/58.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/58.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1118,8 +1118,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/59.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/59.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1137,8 +1137,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/60.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/60.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1156,8 +1156,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/61.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/61.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1175,8 +1175,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/62.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/62.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1194,8 +1194,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/63.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/63.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1213,8 +1213,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/64.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/64.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1232,8 +1232,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/65.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/65.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1251,8 +1251,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/66.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/66.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1270,8 +1270,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/67.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/67.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1289,8 +1289,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/68.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/68.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1308,8 +1308,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/69.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/69.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1327,8 +1327,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/70.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/70.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1346,8 +1346,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/71.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/71.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1365,8 +1365,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/72.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/72.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1384,8 +1384,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/73.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/73.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1403,8 +1403,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/74.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/74.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1422,8 +1422,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/75.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/75.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1441,8 +1441,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/76.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/76.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1460,8 +1460,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/77.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/77.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1479,8 +1479,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/78.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/78.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1498,8 +1498,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/79.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/79.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1517,8 +1517,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/80.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/80.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1536,8 +1536,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/81.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/81.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1555,8 +1555,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/82.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/82.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1574,8 +1574,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/83.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/83.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1593,8 +1593,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/84.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/84.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1612,8 +1612,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/85.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/85.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1631,8 +1631,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/86.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/86.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1650,8 +1650,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/87.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/87.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1669,8 +1669,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/88.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/88.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1688,8 +1688,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/89.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/89.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1707,8 +1707,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/90.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/90.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1726,8 +1726,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/91.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/91.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1745,8 +1745,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/92.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/92.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1764,8 +1764,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/93.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/93.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1783,8 +1783,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/94.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/94.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1802,8 +1802,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/95.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/95.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1821,8 +1821,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/96.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/96.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1840,8 +1840,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/97.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/97.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1859,8 +1859,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/98.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/98.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1878,8 +1878,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/99.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/99.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1897,8 +1897,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/100.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/100.jpg','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   },
   {
@@ -1916,8 +1916,8 @@ export const LOTS9: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca9/101.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/Absolute Value with Opt.png','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/Choice with Opt.png','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/PT-78 colored floorplan.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/Sundowner with Opt.png','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca9/101.JPG','/assets/images/ca7/absolute value.jpg','/assets/images/ca7/WilliamsburgFP.jpg','/assets/images/ca7/dining den 2.jpg','/assets/images/ca7/Choice.jpg','/assets/images/ca7/ConcordFP.jpg','/assets/images/ca7/den dining.jpg','/assets/images/ca7/pt-78.png','/assets/images/ca7/DeerfieldFP.jpg','/assets/images/ca7/living kitchen 2.jpg','/assets/images/ca7/Sundowner.jpg','/assets/images/ca7/RichmondFP.jpg','/assets/images/ca7/kitchen dining.jpg','/assets/blacklines/ca9/ca9 black line.jpg'],
     "BlankCell":"/"
   }
 ]

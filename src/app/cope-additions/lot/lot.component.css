@@ -1,12 +1,9 @@
 .page {
-  background-image: none;
-  background-color: silver;
+  height: 100%;
 }
-.container-left-top {
-  margin-top: 10vh;
-}
-.iframe-container-left-bottom {
-  padding-bottom: 20vh;
+.contents-container {
+  margin-top: 5vh;
+  margin-bottom: 20vh;
 }
 p {
   font-size: 3vw;
@@ -20,11 +17,23 @@ h2 {
 .container-right-top {
   height: 75vh;
 }
-.large-image {
-  width: 100%;
-  height: 65vh;
+.iframe-large-image {
+  max-width: 100%;
+  height: 40vh;
+  max-height: 100%;
   object-fit: contain;
+  top: 0;
 }
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.lot-data {
+  padding-bottom: 30vh;
+}
+
 @media only screen and (max-width: 600px) {
   .iframe-container-left, .iframe-container-right {
     width: 94%;

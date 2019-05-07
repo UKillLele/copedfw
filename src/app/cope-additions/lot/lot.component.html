@@ -1,19 +1,19 @@
 <!-- This container holds the background color -->
-<div class="page" style="height: 100%;" *ngIf="lot$ | async as lot">
+<div class="page" *ngIf="lot$ | async as lot">
 <!-- This container holds everything below the header -->
   <div class="contents-container" style="margin-top: 4vh;">
 <!--This is the left sidebar -->
     <div class="iframe-container-left">
-      <div class="container-left-top">
+      <div class="lot-name">
         <h2 style="margin-top: 0px;">{{lot.Name}}</h2>
         <hr>
       </div>
 <!-- Image -->
-      <div class="container-left-middle">
+      <div class="lot-builder">
         <div [innerHTML]="builderHTML(lot)"></div>
       </div>
 <!-- lot details and contact -->
-      <div class="ifrane-container-left-bottom">
+      <div class="lot-data">
         <p>{{lot.ForSale}}</p>
         <p>{{lot.Acres}}</p>
         <p>{{lot.SqFt}}</p>
@@ -26,31 +26,32 @@
         </div>
           <p>Contact {{lot.ContactName}}:
           <a href="tel:{{lot.ContactPhone}}">Call </a> or
-          <a href="mailto:{{lot.ContactEmail}}?subject={{lot.Title}}"> Email</a></p>
-        </div>
+          <a href="mailto:{{lot.ContactEmail}}?subject={{lot.Title}}"> Email</a>
+        </p>
       </div>
+    </div>
 <!-- This container holds the main content of the page -->
     <div class="iframe-container-right">
 <!-- This is the image and slider container -->
-      <div class="container-right-top">
+      <div class="image-slider">
 <!-- this is the default image -->
         <div *ngIf="default" style="text-align: center;" class="if">
           <div *ngFor="let image of lot.Images; let first = first" class="for">
             <div *ngIf="first" class="first">
             <a href="{{image}}" target="_blank">
-              <img src="{{image}}" alt="{{image}}" class="large-image">
+              <img src="{{image}}" alt="{{image}}" class="iframe-large-image">
             </a>
             </div>
           </div>
         </div>
 <!-- This is where the non-default images appear, removing the default -->
           <div *ngIf="selectedImage" style="text-align: center;">
-            <a href="{{selectedImage}}">
-              <img src="{{selectedImage}}" alt="{{selectedImage}}" class="large-image">
+            <a href="{{selectedImage}}" target="_blank">
+              <img src="{{selectedImage}}" alt="{{selectedImage}}" class="iframe-large-image">
             </a>
           </div>
 <!-- This is the small scroller -->
-        <div class="container-right-top-bottom">
+        <div class="thumbnails">
           <div class="scroller">
 <!-- This is the selector for images -->
             <div class="small-image" *ngFor="let image of lot.Images">

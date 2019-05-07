@@ -16,8 +16,8 @@ export const LOTS11: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca11/lot 11.JPG','/assets/blacklines/ca11/ca11zblackline.JPG'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca11/lot 11.jpg','/assets/blacklines/ca11/ca11zblackline.jpg'],
     "BlankCell":"/"
   },
   {
@@ -35,8 +35,8 @@ export const LOTS11: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca11/lot 2.JPG','/assets/blacklines/ca11/ca11blackline.JPG'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca11/lot 2.jpg','/assets/blacklines/ca11/ca11blackline.jpg'],
     "BlankCell":"/"
   },
   {
@@ -54,8 +54,8 @@ export const LOTS11: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca11/lot 3.JPG','/assets/blacklines/ca11/ca11blackline.JPG'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca11/lot 3.jpg','/assets/blacklines/ca11/ca11blackline.jpg'],
     "BlankCell":"/"
   },
   {
@@ -73,8 +73,8 @@ export const LOTS11: Lot[] = [
     "CCR":"",
     "ContactName":"Mark Cope",
     "ContactEmail":"sales@copedfw.com",
-    "ContactPhone":2145925642,
-    "Images":['/assets/blacklines/ca11/lot 4.JPG','/assets/blacklines/ca11/ca11blackline.JPG'],
+    "ContactPhone":2145925641,
+    "Images":['/assets/blacklines/ca11/lot 4.jpg','/assets/blacklines/ca11/ca11blackline.jpg'],
     "BlankCell":"/"
   }
 ]

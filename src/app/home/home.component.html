@@ -1,9 +1,21 @@
-<div class="video-container" [innerHTML]="videoTag">
-</div>
-<div class="home-container">
-  <h1>There's no place like Texas</h1>
-  <a [routerLink]="['/cope-additions']">
-    <button type="button" name="button">Find your home</button>
-  </a>
-  <p>with Cope Equities</p>
-</div>
+  <div class="video-container" [innerHTML]="videoTag">
+  </div>
+  <div class="home-container">
+    <h1>An experienced and trusted<br>DFW development company</h1>
+    <h2>Specializing in commercial, residential,<br>and mixed-use real estate</h2>
+    <div class="button-container">
+      <div class="left-button">
+        <button type="button" name="button 1" class="home-button" (click)="display= true;">Investments available</button>
+      </div>
+      <div class="right-button">
+        <a [routerLink]="['/cope-additions']">
+          <button type="button" name="button 2" class="home-button">Find your home</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="iframe-container" *ngIf="display">
+    <iframe class="popup" src="https://docs.google.com/forms/d/e/1FAIpQLSdmoWzJt2sNozHGApgQDZf6MCK7tXIT2xXvzYHHM_wAmnreug/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    <div class="iframe-container" (click)="display= false">
+    </div>
+      </div>

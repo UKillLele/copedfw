@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import {DomSanitizer} from "@angular/platform-browser";
+import { DomSanitizer } from "@angular/platform-browser";
+import { FormBuilder, FormGroup, Validators, AbstractControl, FormControl } from '@angular/forms';
 
 @Component({
   selector: 'home',
@@ -7,10 +8,14 @@ import {DomSanitizer} from "@angular/platform-browser";
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-  videoTag;
+  videoTag: object;
+  display: boolean;
 
-  constructor(private sanitizer: DomSanitizer) {
+  constructor(
+    private sanitizer: DomSanitizer
+  ) {
     this.videoTag = this.getVideoTag();
+    this.display = false;
   }
 
   private getVideoTag() {

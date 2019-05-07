@@ -2,27 +2,21 @@
   <div class="page-header">
     <div class="page-header-content">
       <h1>Cope Additions</h1>
-      <p>
-        Find your new home in one of our premier neighborhoods.
-      </p>
     </div>
   </div>
   <div class="content-container">
-    <div class="content-section-header">
-      <h2>
-        All Additions
-      </h2>
-    </div>
-    <div class="box-container">
-      <div class="individual-container" *ngFor="let project of projects$ | async">
-        <a [routerLink]="['/cope-additions', project.id]">
-          <img class="overlay" src="{{project.Overlay}}">
-          <img class="individual" src="{{project.BackgroundImage}}" alt="{{project.Title}}">
-          <div class="individual-description">
-            <h3>{{project.Title}}</h3>
+    <div class="non-row" *ngFor="let project of projects$ | async">
+      <a [routerLink]="['/cope-additions', project.id]">
+        <div class="tombstone">
+          <div class="picture" [style]="projectStyle(project)">
           </div>
-        </a>
-      </div>
+          <div class="details">
+            <h2 class="details-text">{{project.Title}}</h2>
+            <p class="details-text">{{project.SaleStatus}}</p>
+            <p class="details-text" [innerHTML]="summaryHTML(project)"></p>
+          </div>
+        </div>
+      </a>
     </div>
   </div>
   <div class="map-container">

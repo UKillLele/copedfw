@@ -3,7 +3,7 @@
   height: 7vh;
   width: 100%;
   position: fixed;
-  background-image: linear-gradient(rgba(192, 192, 192, 0.5),rgba(192, 192, 192, 0.9),rgba(192, 192, 192, 0.5));
+  background-color: white;
   box-shadow: 5px 5px 7px rgba(0, 0, 0, .5);
 }
 .img-container {
@@ -18,7 +18,7 @@ img {
   padding: 0px;
 }
 .img-container a:hover{
-  background-image: none;
+  background-color: white;
 }
 .hamburger-nav img {
   display: none;
@@ -28,13 +28,15 @@ a {
   color: navy;
   text-shadow: 2px 2px 5px gray;
   font-size: 3vh;
-  padding: 3vh 30px;
+  font-weight: bold;
+  line-height: 7vh;
+  padding: 2vh 30px;
 }
 a:hover {
-  background-image: linear-gradient(rgba(000, 0, 0, 0.2),rgba(000, 0, 0, 0.05),rgba(000, 0, 0, 0.2));
-}
-a:active, .dropdown:active {
-  transform: translateY(4px);
+  background-color: #BF1E2E;
+  color: white;
+  text-shadow: 2px 2px 5px maroon;
+  transition: color .5s, background-color .5s;
 }
 .nav-container {
   float: right;
@@ -42,39 +44,36 @@ a:active, .dropdown:active {
 .nav-item {
   text-align: center;
   display: inline-block;
-  padding: 1vh 0px;
   position: relative;
 }
 .active {
-  background-image: linear-gradient(rgba(000, 0, 0, 0.3),rgba(000, 0, 0, 0.1),rgba(000, 0, 0, 0.3));
+  background-color: #1C3580;
+  color: white;
+  text-shadow: 2px 2px 5px navy;
 }
 .dropdown {
 }
 .dropdown-container{
-  display: none;
+  max-height: 0;
   position: absolute;
-  margin-top: 3vh;
   overflow: auto;
-  max-height: 90vh;
-  background-color: rgba(192, 192, 192, 0.9);
+  background-color: white;
+  display: block;
+  overflow-y: hidden;
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, .5);
 }
 .dropdown-content {
   position: relative;
   font-size: 1vh;
 }
 .dropdown:hover .dropdown-container {
-  display: block;
+  max-height: 85vh;
+  transition: max-height .5s;
 }
 .dropdown-content a {
-  padding: 1.5vh 5px;
+  padding: 1vh 5px;
+  line-height: normal;
   display: block;
-}
-::-webkit-scrollbar-thumb {
-  background: red;
-  border-radius: 10px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: maroon;
 }
 
 @media only screen and (max-width: 1023px) {
@@ -92,12 +91,14 @@ a:active, .dropdown:active {
     position: absolute;
     right: 0;
   }
+  .nav-outer-container {
+    width: 100vw;
+  }
   .nav-container {
     display: none;
     text-align: right;
-    width: 50vw;
-    background-color: rgba(128, 128, 128, 0.9);
-    margin-top: .5vh;
+    width: 60vw;
+    background-color: white;
   }
   .nav-item {
     text-align: right;

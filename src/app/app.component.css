@@ -2,6 +2,7 @@ nav-bar {
   position: fixed;
   z-index: 100;
 }
+
 footer {
   position: fixed;
   right: 0;
@@ -9,4 +10,10 @@ footer {
   left: 0;
   z-index: 100;
   width: 100%;
+}
+
+@media only screen and (max-width: 1023px) {
+  footer {
+    width: 100vw;
+  }
 }

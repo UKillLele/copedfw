@@ -1,0 +1,25 @@
+{
+  "investors": [
+    {
+      "id": 1,
+      "name": "Robert Smith",
+      "email": "roberts@gmail.com",
+      "phone": "8175551234",
+      "comments": "blah blah blah blah"
+    },
+    {
+      "id": 2,
+      "name": "Albert Smith",
+      "email": "alberts@gmail.com",
+      "phone": "8175551235",
+      "comments": "blah blah blah blah blah"
+    },
+    {
+      "id": 3,
+      "name": "Frederick Smith",
+      "email": "freds@gmail.com",
+      "phone": "8175551236",
+      "comments": "blah blah blah"
+    }
+  ]
+}

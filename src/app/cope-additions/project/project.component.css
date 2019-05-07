@@ -1,0 +1,54 @@
+.plat-map {
+  text-align: center;
+  height: 61vh;
+  margin: 2vh;
+  display: flex;
+}
+.plat-image {
+  max-height: 100%;
+  max-width: 100%;
+  align-self: center;
+  text-align: center;
+  margin: auto;
+}
+.show {
+  height: 13vh;
+  padding: 1vh;
+  background-color: #f0f0f0;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+}
+.show p {
+  align-self: center;
+  text-align: center;
+  margin: auto;
+}
+.hide {
+  display: none;
+}
+.map {
+  width: 100%;
+  height: 85vh;
+  border: none;
+}
+.sold:hover {
+}
+
+@media only screen and (max-width: 1023px) {
+  .page {
+    max-width: 100%;
+  }
+  .row {
+    width: 98%;
+    margin: auto;
+  }
+  .odd {
+    height: 53vh;
+  }
+  .even {
+    height: 261vh;
+  }
+  .details {
+  }
+}

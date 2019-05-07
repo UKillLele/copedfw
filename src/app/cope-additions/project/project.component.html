@@ -1,92 +1,85 @@
 <!-- This container holds the background color -->
 <div class="page" *ngIf="project$ | async as project">
-<!-- This container holds the parallax header background (navbar is in a container outside the page) -->
-  <img src="{{project.BackgroundImage}}" class="page-header" style="position: absolute;">
   <div class="page-header">
-<!-- This container determines the size and alignment of the header -->
-    <div class="addition-header-content">
-<!-- This should remain even without an image for padding -->
-      <img class="addition-logo" src="{{project.AdditionLogo}}">
-      <h1 [style.color]="colorStyle(project)">{{project.Title}}</h1>
-    </div>
-  </div>
-<!-- This container holds the color for the divider and position -->
-  <div class="divider">
-    <h2>{{project.BannerText}}</h2>
-    <a [href]="buttonUrl(project)" target="_self"><button type="button" name="button" [style.background-color]="colorStyle(project)">{{project.ButtonText}}</button></a>
+      <div class="addition-title"><h1>{{project.Title}}</h1></div>
   </div>
 <!-- This container holds everything below the header -->
   <div class="contents-container">
-<!-- This container holds the main content of the page -->
-    <div class="container-right">
-<!-- This is the image and slider container -->
-      <div class="container-right-top">
-<!--This is an overlay for projects that are sold out -->
-          <img class="overlay" src="{{project.Overlay}}">
+
+<!-- First row cointaining slider -->
+    <div class="row odd">
+<!-- This is the image and slider container; css for this is in styles.css because it's also used in the popup -->
+        <div class="image-slider">
 <!-- This is the default image/video which is removed when another image is selected -->
-          <div [innerHTML]="imageHTML(project)" *ngIf="first" style="text-align: center;"></div>
+          <div [innerHTML]="imageHTML(project)" *ngIf="first" class="large-image" ></div>
 <!-- This is where the non-default images appear, removing the default -->
-          <div style="text-align: center;" *ngIf="selectedImage">
-            <a href="{{selectedImage}}">
+          <div class="large-image" *ngIf="selectedImage">
+            <a href="{{selectedImage}}" target="_self" class="large-image">
               <img src="{{selectedImage}}" alt="{{selectedImage}}" class="large-image">
             </a>
           </div>
 <!-- This is the small scroller -->
-        <div class="container-right-top-bottom">
-          <div class="scroller">
+          <div class="thumbnails">
+            <div class="scroller">
 <!-- This is the first image, which attaches to the default image -->
-            <div class="small-image">
-              <img src="{{project.DefaultImage}}" alt="{{project.DefaultImage}}" (click)="defaultSelect()">
-            </div>
+              <div class="small-image">
+                <img src="{{project.DefaultImage}}" alt="{{project.DefaultImage}}" (click)="defaultSelect()">
+              </div>
 <!-- This is the selector for images -->
-            <div class="small-image" *ngFor="let image of project.Images">
-              <img src="{{image}}" alt="{{image}}" (click)="toggleSelect(image)">
+              <div class="small-image" *ngFor="let image of project.Images">
+                <img src="{{image}}" alt="{{image}}" (click)="toggleSelect(image)">
+              </div>
             </div>
           </div>
+        </div>
+      </div>
+
+<!-- tombstone section -->
+    <div class="row even">
+<!-- logo and description -->
+      <div class="tombstone">
+        <div class="picture" [style]="logoStyle(project)">
+        </div>
+        <div class="details">
+          <p class="details-text">{{project.Details}}</p>
+        </div>
+      </div>
+<!-- plat map -->
+      <div class="tombstone">
+        <div class="plat-map">
+          <div [style]="svgStyle(project)" [innerHTML]="svgHTML(project)" (click)="openLot()"></div>
+          <img class="plat-image" src="{{project.Plat}}" alt="plat map">
+        </div>
+        <div class="{{project.Click}}">
+          <p>Click on lots in plat for details</p>
+        </div>
+      </div>
+<!-- contact -->
+      <div class="tombstone">
+        <div class="picture" [style]="contactStyle(project)">
+        </div>
+        <div class="details">
+          <div class="details-text">
+            <h3 style="margin-top: 0px;">{{project.ContactName}}</h3>
+            <p><a href="tel:{{project.ContactPhone}}">{{project.ContactPhone}}</a></p>
+            <p><a href="mailto:{{project.ContactEmail}}?subject={{project.Title}}">{{project.ContactEmail}}</a></p>
+            <br/>
+            <p><a href="https://aemtexas.com" style="color:maroon;">Get a mortgage with<br/>American Equities Mortgage</a></p>
           </div>
-      </div>
-<!-- Map goes here. Doesn't match the plat size, which is annoying. -->
-      <div class="container-right-bottom-right">
-        <iframe class="map" [src]="mapURL(project)" width="640" height="480"></iframe>
-      </div>
-<!-- This is the interactive plat map -->
-      <div class="container-right-bottom-left">
-        <p class="{{project.Click}}" style="font-size: 4vh; z-index: 5; cursor: ">Click on lots for details</p>
-        <div [style]="svgStyle(project)" [innerHTML]="svgHTML(project)" (click)="openLot()"></div>
-        <img class="contents" src="{{project.Plat}}" alt="plat map">
+        </div>
       </div>
     </div>
-<!--This is the left sidebar -->
-    <div class="container-left">
-<!-- Fast Facts -->
-      <div class="container-left-top">
-        <h2 style="margin-top: 0px;">Fast Facts</h2>
-        <hr>
-        <ul *ngFor="let fact of project.FastFacts">
-          <li [innerHTML]="factHTML(fact)"></li>
-        </ul>
-      </div>
-<!-- Project Details -->
-      <div class="container-left-middle">
-        <h2>Details</h2>
-        <hr>
-        <p>{{project.Details}}</p>
-      </div>
-<!-- Project contact -->
-      <div class="container-left-bottom">
-        <h2>Contact</h2>
-        <hr>
-        <img src="{{project.ContactImage}}">
-        <h3>{{project.ContactName}}</h3>
-        <p style="margin-bottom: 1vh;"><a href="tel:{{project.ContactPhone}}">{{project.ContactPhone}}</a></p>
-        <p style="margin-top: 0px; margin-bottom: 5vh;"><a href="mailto:{{project.ContactEmail}}?subject={{project.Title}}">{{project.ContactEmail}}</a></p>
-      </div>
+<!-- map -->
+    <div class="row">
+      <iframe class="map" [src]="mapURL(project)" width="640" height="480"></iframe>
     </div>
   </div>
+
   <div class="iframe-container" (click)="display= false;" *ngIf="display">
     <div class="iframe" id="iframe">
-      <button name="close" (click)="display= false;">x</button>
-      <iframe name="iframe" scrolling="no" onload="this.height=this.contentWindow.document.body.scrollHeight;"></iframe>
+      <button name="close" (click)="display= false;" class="iframe-button">x</button>
+      <iframe name="iframe" scrolling="no" onload="var f = this.contentWindow.document.body.scrollHeight; this.height=f+'px';"></iframe>
     </div>
   </div>
+
 </div>
