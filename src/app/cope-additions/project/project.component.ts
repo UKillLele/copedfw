@@ -18,6 +18,7 @@ export class ProjectComponent implements OnInit {
   display: boolean;
   display1: boolean;
   selectedImage: string;
+  imageTitle:string;
   project$: Observable<Project>;
   first: boolean;
 
@@ -46,7 +47,8 @@ export class ProjectComponent implements OnInit {
   }
 
   toggleSelect(image: string) {
-    this.selectedImage = image;
+    this.selectedImage = image[0];
+    this.imageTitle = image[1];
     this.first = false;
   }
 

@@ -15,6 +15,7 @@
 <!-- This is where the non-default images appear, removing the default -->
           <div class="large-image" *ngIf="selectedImage">
             <a href="{{selectedImage}}" target="_self" class="large-image">
+              <h1 class="large-title">{{imageTitle}}</h1>
               <img src="{{selectedImage}}" alt="{{selectedImage}}" class="large-image">
             </a>
           </div>
@@ -27,7 +28,7 @@
               </div>
 <!-- This is the selector for images -->
               <div class="small-image" *ngFor="let image of project.Images">
-                <img src="{{image}}" alt="{{image}}" (click)="toggleSelect(image)">
+                <img src="{{image[0]}}" alt="{{image[1]}}" title="{{image[1]}}"(click)="toggleSelect(image)">
               </div>
             </div>
           </div>

@@ -328,10 +328,7 @@ a button {
     height: 53vh;
   }
   .large-image {
-    min-height: auto;
-    width: 100%;
-    align-self: center;
-    text-align: center;
+    position: relative;
   }
   .large-image img{
   }

@@ -6,7 +6,7 @@ export class Project {
   ButtonLink: string;
   LargeDefault: string;
   DefaultImage: string;
-  Images: string[];
+  Images: string[][];
   SaleStatus: string;
   Summary: string;
   Map: string;
