@@ -368,7 +368,7 @@ export const PROJECTS: Project[] = [
     ButtonLink:'/assets/images/ca4/commercial listing.pdf',
     LargeDefault:'<a href="/assets/images/ca4/ca4bg.jpg"><img class=\'large-image\' src=\'/assets/images/ca4/ca4bg.jpg\' alt=\'ca4\' target=\'iframe\'></a>',
     DefaultImage:'/assets/images/ca4/ca4bg.jpg',
-    Images:[['/assets/images/ca4/perspective 1.jpg',''],['/assets/images/ca4/perspective 2.jpg',''],['/assets/images/ca4/perspective 3.jpg',''],['/assets/images/ca4/businesses.jpg',''],['/assets/blacklines/ca4/ca4blackline.jpg','']],
+    Images:[['/assets/images/ca4/perspective 1.jpg',''],['/assets/images/ca4/perspective 2.jpg',''],['/assets/images/ca4/perspective 3.jpg',''],['/assets/images/ca4/businesses.jpg',''],['/assets/blacklines/ca4/ca4blackline.jpg',''],['/assets/images/ca4/retail.jpg',''],['/assets/images/ca4/Page 6.jpg','']],
     SaleStatus:'70% Sold Out',
     Summary:'34-acre mixed-used<br/>Retail pads available<br/>Grand Prairie, Texas',
     Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=32.6692998179071%2C-97.04251530836137&z=15',
@@ -383,7 +383,7 @@ export const PROJECTS: Project[] = [
       overflow-x: hidden;`,
     Plat:'/assets/images/plats/ca4.png',
     Click:'hide',
-    Details:'This new development is in a prime location near Arlington, TX on Highway 20, making it very near shopping, entertainment, and businesses. The position off of Highway 20 allows for quick access to all the major cities in DFW and proximity to Highway 360 makes for easy access to the airport. Nearby are water and themeparks and many shops are within walking distance. The luxury apartments are already being developed, so there will be a built-in market for the available retail pad sites.',
+    Details:'This new development is in a prime location near Grand Prairie, TX on Highway 20, making it very near shopping, entertainment, and businesses. The location just off of two freeways makes for easy access to surrounding cities and DFW airport. Nearby are water and theme parks. The luxury apartments are already being developed, so there will be a built-in market for the available retail pad sites.',
     ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
     ContactName:'Mark Cope',
     ContactPhone:2145925641,
@@ -404,11 +404,18 @@ export const PROJECTS: Project[] = [
             ['/assets/images/houses/Jefferson/Jefferson A second floor iso.jpg','The Jefferson'],
             ['/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','The Jefferson'],
             ['/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','The Jefferson'],
+            ['/assets/images/houses/Jefferson/Jefferson front img.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson back img.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson Kitchen.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson stairs.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson ceiling.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson dbl vanity.jpg','The Jefferson Construction Progress'],
+            ['/assets/images/houses/Jefferson/Jefferson shower.jpg','The Jefferson Construction Progress'],
             ['/assets/images/houses/Carlton/Carlton front iso.jpg','The Carlton'],
             ['/assets/images/houses/Carlton/Carlton first floor iso.jpg','The Carlton'],
             ['/assets/images/houses/Carlton/Carlton second floor iso.jpg','The Carlton'],
-            ['/assets/images/houses/Carlton/CARLTON A first floor.png','The Carlton'],
-            ['/assets/images/houses/Carlton/CARLTON A second floor.png','The Carlton'],
+            ['/assets/images/houses/Carlton/CARLTON A first floor.jpg','The Carlton'],
+            ['/assets/images/houses/Carlton/CARLTON A second floor.jpg','The Carlton'],
             ['/assets/images/houses/Hamilton/The Hamilton iso front.jpg','The Hamilton'],
             ['/assets/images/houses/Hamilton/The Hamilton first floor.jpg','The Hamilton'],
             ['/assets/images/houses/Hamilton/The Hamilton second floor.jpg','The Hamilton'],
@@ -443,7 +450,7 @@ export const PROJECTS: Project[] = [
         <a href=\'/cope-additions/5/1661_Republic_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'263.5\' y=\'315.8\' width=\'47.5\' height=\'91.4\'alt=\'B-16\'><title>SOLD</title></rect></a>
         <a href=\'/cope-additions/5/1660_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'263.5\' y=\'410.3\' width=\'47.5\' height=\'92.3\'alt=\'B-17\'><title>SOLD</title></rect></a>
         <a href=\'/cope-additions/5/1686_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'313.7\' y=\'410.3\' width=\'45.8\' height=\'92.3\'alt=\'B-18\'><title>SOLD</title></rect></a>
-        <a href=\'/cope-additions/5/1740_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'363,410.3 449.8,410.3 385,491.5 363,498 \'alt=\'B-19\'><title>lot for sale</title></polygon></a>
+        <a href=\'/cope-additions/5/1704_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'363,410.3 449.8,410.3 385,491.5 363,498 \'alt=\'B-19\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1710_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'home-for-sale\' points=\'389.5,494 452.3,415 451.3,533.5 400,516 \'alt=\'B-20\'><title>home for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1711_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'home-for-sale\' points=\'398.5,520.4 449.8,539 449.8,594.8 392.5,594.8 379.7,534.5 \'alt=\'B-21\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1695_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'322,522.8 359.5,522.8 373.5,533.5 386.8,596 322,594.8 \'alt=\'B-22\'><title>home for sale</title></polygon></a>
@@ -561,7 +568,7 @@ export const PROJECTS: Project[] = [
     ButtonLink:'https://www.google.com/maps/dir//6461+FM982,+Princeton,+TX+75407',
     LargeDefault:'<a href="/assets/images/ca7/dining den 2.jpg"><img src="/assets/images/ca7/dining den 2.jpg" class="large-image" target=\'iframe\'></a>',
     DefaultImage:'/assets/images/ca7/dining den 2.jpg',
-    Images:[['/assets/images/ca7/CA7 Landmark Aerial.jpg',''],['/assets/images/ca7/CA7 Landmark Aerial NW.jpg',''],['/assets/images/ca8/Model Home hours.jpg',''],['/assets/images/ca7/absolute value.jpg','The Williamsburg'],['/assets/images/ca7/WilliamsburgFP.jpg','The Williamsburg'],['/assets/images/ca7/kitchen dining.jpg','The Williamsburg'],['/assets/images/ca7/living kitchen 2.jpg','The Williamsburg'],['/assets/images/ca7/den dining.jpg','The Williamsburg'],['/assets/images/ca7/Choice.jpg','The Concord'],['/assets/images/ca7/ConcordFP.jpg','The Concord'],['/assets/images/ca7/pt-78.png','The Deerfield'],['/assets/images/ca7/DeerfieldFP.jpg','The Deerfield'],['/assets/images/ca7/Sundowner.jpg','The Richmond'],['/assets/images/ca7/RichmondFP.jpg','The Richmond'],['/assets/blacklines/ca7/CA7 black line.png']],
+    Images:[['/assets/images/ca7/CA7 Landmark Aerial.jpg',''],['/assets/images/ca7/CA7 Landmark Aerial NW.jpg',''],['/assets/images/ca8/Model Home hours.jpg',''],['/assets/images/ca7/absolute value.jpg','The Williamsburg'],['/assets/images/ca7/WilliamsburgFP.jpg','The Williamsburg'],['/assets/images/ca7/kitchen dining.jpg','The Williamsburg'],['/assets/images/ca7/living kitchen 2.jpg','The Williamsburg'],['/assets/images/ca7/den dining.jpg','The Williamsburg'],['/assets/images/ca7/Choice.jpg','The Concord'],['/assets/images/ca7/ConcordFP.jpg','The Concord'],['/assets/images/ca7/pt-78.jpg','The Deerfield'],['/assets/images/ca7/DeerfieldFP.jpg','The Deerfield'],['/assets/images/ca7/Sundowner.jpg','The Richmond'],['/assets/images/ca7/RichmondFP.jpg','The Richmond'],['/assets/blacklines/ca7/CA7 black line.png']],
     SaleStatus:'NOW SELLING',
     Summary:'131 lots single-family residential<br/>Manufactured homes on 1+ acre<br/>Nevada, Texas',
     Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.10746258500599%2C-96.37107526542684&z=13',
@@ -734,7 +741,7 @@ export const PROJECTS: Project[] = [
     ButtonLink:'https://www.google.com/maps/dir//6461+FM982,+Princeton,+TX+75407',
     LargeDefault:'<a href="/assets/images/ca7/dining den 2.jpg"><img src="/assets/images/ca7/dining den 2.jpg" class="large-image" target=\'iframe\'></a>',
     DefaultImage:'/assets/images/ca7/dining den 2.jpg',
-    Images:[['/assets/images/ca8/CA8 Landmark Aerial.jpg',''],['/assets/images/ca8/Model Home hours.jpg',''],['/assets/images/ca7/absolute value.jpg','The Williamsburg'],['/assets/images/ca7/WilliamsburgFP.jpg','The Williamsburg'],['/assets/images/ca7/kitchen dining.jpg','The Williamsburg'],['/assets/images/ca7/living kitchen 2.jpg','The Williamsburg'],['/assets/images/ca7/den dining.jpg','The Williamsburg'],['/assets/images/ca7/Choice.jpg','The Concord'],['/assets/images/ca7/ConcordFP.jpg','The Concord'],['/assets/images/ca7/pt-78.png','The Deerfield'],['/assets/images/ca7/DeerfieldFP.jpg','The Deerfield'],['/assets/images/ca7/Sundowner.jpg','The Richmond'],['/assets/images/ca7/RichmondFP.jpg','The Richmond'],['/assets/blacklines/ca8/ca8 blackline.JPG','']],
+    Images:[['/assets/images/ca8/CA8 Landmark Aerial.jpg',''],['/assets/images/ca8/Model Home hours.jpg',''],['/assets/images/ca7/absolute value.jpg','The Williamsburg'],['/assets/images/ca7/WilliamsburgFP.jpg','The Williamsburg'],['/assets/images/ca7/kitchen dining.jpg','The Williamsburg'],['/assets/images/ca7/living kitchen 2.jpg','The Williamsburg'],['/assets/images/ca7/den dining.jpg','The Williamsburg'],['/assets/images/ca7/Choice.jpg','The Concord'],['/assets/images/ca7/ConcordFP.jpg','The Concord'],['/assets/images/ca7/pt-78.jpg','The Deerfield'],['/assets/images/ca7/DeerfieldFP.jpg','The Deerfield'],['/assets/images/ca7/Sundowner.jpg','The Richmond'],['/assets/images/ca7/RichmondFP.jpg','The Richmond'],['/assets/blacklines/ca8/ca8 blackline.JPG','']],
     SaleStatus:'NOW SELLING',
     Summary:'45 lots single-family residential<br/>Manufactured homes<br/>On 1+ acre<br/>Princeton, Texas',
     Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.077336067957575%2C-96.50177832646119&z=15',
@@ -859,7 +866,7 @@ export const PROJECTS: Project[] = [
     AdditionLogo:'background-image: url("/assets/images/ca9/ca9bg.jpg");',
     BackgroundImage:'background-image: url(/assets/images/ca9/ca9bg.jpg)',
     ButtonLink:'/assets/blacklines/ca9/ca9blackline.jpg',
-    LargeDefault:'<a href="/assets/images/ca9/CA9 Landmark Aerial.jpg"><img class=\'large-image\' src=\'/assets/images/ca9/ca9bg.jpg\' alt=\'ca9\'></a>',
+    LargeDefault:'<a href="/assets/images/ca9/CA9 Landmark Aerial.jpg"><img class=\'large-image\' src=\'/assets/images/ca9/CA9 Landmark Aerial.jpg\' alt=\'ca9\'></a>',
     DefaultImage:'/assets/images/ca9/CA9 Landmark Aerial.jpg',
     Images:[['/assets/images/ca9/ca9bg.jpg'],['/assets/images/houses/Rose/The Rose Front iso.jpg','The Rose'],['/assets/images/houses/Rose/The Rose back iso.jpg','The Rose'],['/assets/images/houses/Rose/The Rose floorplan 3D.jpg','The Rose'],['/assets/images/houses/Rose/Rose Floorplan.jpg','The Rose']],
     SaleStatus:'IN DESIGN PHASE',
@@ -911,7 +918,7 @@ export const PROJECTS: Project[] = [
       overflow-x: hidden;`,
     Plat:'/assets/images/plats/ca10.png',
     Click:'hide',
-    Details:'Monticello is the ideal place to live, work, and play. A lifestyle center rivaling Villages of Fairview, the Shops at Legacy in Plano, Tanger Outlets in Fort Worth, and Arlington Highlands, Monticello offers everything. You can shop at the dozens of outlets, eat at the many restaurants, and even get your groceries around the corner. You can play with your children or watch them have a ball at the splash pad and then go for ice cream just steps away. And all of this is within walking distance of your beautiful new home.',
+    Details:'Monticello is the ideal place to live, work, and play. With a lifestyle center rivaling Villages of Fairview, the Shops at Legacy, Tanger Outlets, and Arlington Highlands, Monticello offers everything. You can shop at the dozens of outlets, eat at the many restaurants, and even get your groceries. You can play with your children or watch them have a ball at the splash pad then go for ice cream just steps away. And within walking distance of your beautiful new home.',
     ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
     ContactName:'Mark Cope',
     ContactPhone:2145925641,
@@ -940,6 +947,34 @@ export const PROJECTS: Project[] = [
     Plat:'/assets/images/plats/ca11.png',
     Click:'show',
     Details:'The new Cope Tower will feature ground-floor retail, 5 stories of office space, and 4 stories of high-end residential at prospering Allen Gateway. Located just off of Sam Rayburn Tollway (US HWY 121), Allen Gateway is an up-and-coming, bustling city area. The area includes retail, residential, and entertainment, attracting prosperous millennials with the "live, work, play" lifestyle.',
+    ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
+    ContactName:'Mark Cope',
+    ContactPhone:2145925641,
+    ContactEmail:'MarkCope@CopeDFW.com',
+    BlankCell:'/'
+  },
+  {
+    id:12,
+    Title:'Cope Addition XII',
+    AdditionLogo:'background-image: url("/assets/images/ca12/ca12 map.jpg");',
+    BackgroundImage:'background-image: url("/assets/images/ca12/ca12 map.jpg")',
+    ButtonLink:'',
+    LargeDefault:'<a href="/assets/images/ca12/ca12 map.jpg"><img class=\'large-image\' src=\'/assets/images/ca12/ca12 map.jpg\' alt=\'ca12\'></a>',
+    DefaultImage:'/assets/images/ca12/ca12 map.jpg',
+    Images:[['/assets/images/ca12/ca12 plat.jpg','']],
+    SaleStatus:'Under Development',
+    Summary:'Mixed-use<br/>Frontage access<br/>Melissa, Texas',
+    Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.288842584995926%2C-96.54809507769482&z=13',
+    SVG:``,
+    SVGMobile:``,
+    SVGStyle:`
+      width: 28vw;
+      position: absolute;
+      z-index: 4;
+      overflow-x: hidden;`,
+    Plat:'/assets/images/plats/ca12.jpg',
+    Click:'hide',
+    Details:'This new development will be a mixed-use center serving the growing city of Melissa, Texas, a suburb with easy access to Dallas, McKinney, Frisco, Allen, and Plano.',
     ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
     ContactName:'Mark Cope',
     ContactPhone:2145925641,
