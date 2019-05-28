@@ -5,6 +5,7 @@ import { ProjectListComponent } from './project-list/project-list.component';
 import { ProjectComponent } from './project/project.component';
 
 import { ProjectRoutingModule } from './project-routing.module';
+import { ManufacturedComponent } from './project/manufactured/manufactured.component';
 
 @NgModule({
   imports: [
@@ -13,7 +14,8 @@ import { ProjectRoutingModule } from './project-routing.module';
   ],
   declarations: [
     ProjectListComponent,
-    ProjectComponent
+    ProjectComponent,
+    ManufacturedComponent
   ]
 })
 export class CopeAdditionsModule {}

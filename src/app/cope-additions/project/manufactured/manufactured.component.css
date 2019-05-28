@@ -1,0 +1,85 @@
+.selection-form {
+  margin: 5vh 5vw;
+}
+.section {
+  display: flex;
+  justify-content: space-around;
+}
+.option {
+  display: block;
+  text-align: center;
+}
+.option-logo {
+  display: block;
+  height: 200px;
+  margin: 5px;
+}
+.option-img {
+  display: block;
+  height: 200px;
+  margin: 5px;
+  border-radius: 50%;
+}
+.plat-container {
+  position: relative;
+  margin-bottom: 50px;
+}
+.plat {
+  height: 500px;
+  position: absolute;
+  z-index: 0;
+}
+#plat8 .svg {
+  position: relative;
+  height: 460px;
+  z-index: 1;
+  padding: 15px 0 0 20px;
+}
+#plat7 .svg {
+  position: relative;
+  height: 480px;
+  z-index: 1;
+  padding: 17px 0 0 22px;
+}
+span#lot-price8, span#lot-price7 {
+  float: right;
+  font-size: 1.5vw;
+  font-weight: normal;
+}
+.radio {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.radio + .option-img, .radio + .option-logo {
+  cursor: pointer;
+}
+.radio:checked + .option-img {
+  border: 3px solid #f00;
+  border-radius: 50%;
+}
+.radio:checked + .option-logo {
+  border: 3px solid #f00;
+}
+.hidden {
+  display: none;
+}
+a button {
+  color: black;
+}
+#result {
+  margin-top: 40px;
+}
+.centered {
+  display: flex;
+  justify-content: center;
+}
+.iframe-container iframe {
+  width: 80vw;
+}
+.iframe {
+  -webkit-transform: translate(10%, -50%);
+  -moz-transform: translate(10%, -50%);
+  transform: translate(10%, -50%);
+}

@@ -58,12 +58,6 @@ export class ProjectComponent implements OnInit {
     }
   }
 
-  openLargeImage() {
-    if (window.innerWidth >= 1023) {
-      this.display1 = true;
-    }
-  }
-
   defaultSelect() {
     this.selectedImage = '';
     this.first = true;
