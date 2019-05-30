@@ -223,18 +223,18 @@
     <section id="insulation" class="hidden">
       <h2>Upgrade your insulation:<span id="insulation-price" class="right"></span></h2>
       <div class="section">
-        <label for="standard-insulation" class="option"><input (click)="insulation(0)" class="radio" type="radio" name="insulation" value="standard insulation" id="standard-insulation"><div class="option-text"><div>Standard insulation:</div><br/>R-11 floor insulation<br/>R-11 wall insulation<br/>R-21 ceiling insulation</div></label>
-        <label for="premium-insulation" class="option"><input (click)="insulation(1000)" class="radio" type="radio" name="insulation" value="premium insulation" id="premium-insulation"><div class="option-text"><div>Premium insulation:</div><br/>R-22 floor insulation<br/>R-11 wall insulation<br/>R-33 ceiling insulation</div></label>
+        <label for="standard-insulation" class="option"><input (click)="insulation(0)" class="radio" type="radio" name="insulation" value="standard insulation" id="standard-insulation"><div class="option-text">Standard insulation<hr/><br/>R-11 floor insulation<br/>R-11 wall insulation<br/>R-21 ceiling insulation</div></label>
+        <label for="premium-insulation" class="option"><input (click)="insulation(1000)" class="radio" type="radio" name="insulation" value="premium insulation" id="premium-insulation"><div class="option-text">Premium insulation<hr/><br/>R-22 floor insulation<br/>R-11 wall insulation<br/>R-33 ceiling insulation</div></label>
       </div>
     </section>
     <section id="garage" class="hidden">
       <h2>Add a garage:<span id="garage-price" class="right"></span></h2>
       <div class="section">
         <label for="no-garage" class="option"><input (click)="garage(0)" class="radio" type="radio" name="garage" value="no garage" id="no-garage"><div class="option-text">No garage</div></label>
-        <label for="incl-garage" class="option"><input (click)="garage(29000)" class="radio" type="radio" name="garage" value="including garage" id="incl-garage">Garage<img class="option-img" src="/assets/images/houses/manufactured/garage.jpg" alt="garage">24' x 41'<br/>Two garage doors<br/>One pedestrian door<br/>Two windows</label>
+        <label for="incl-garage" class="option"><input (click)="garage(15000)" class="radio" type="radio" name="garage" value="including garage" id="incl-garage">Garage<img class="option-img" src="/assets/images/houses/manufactured/garage.jpg" alt="garage">24' x 41'<br/>Two garage doors<br/>One pedestrian door<br/>Two windows</label>
       </div>
     </section>
-    <section id="shed" class="">
+    <section id="shed" class="hidden">
       <h2>Add a shed:<span id="shed-price" class="right"></span></h2>
       <div class="section">
         <label for="no-shed" class="option"><input (click)="shed(0)" class="radio" type="radio" name="shed" value="no shed" id="no-shed"><div class="option-text">No shed</div></label>
@@ -243,19 +243,40 @@
     </section>
     <section id="skirt" class="hidden">
       <h2>Choose your home's skirt:</h2>
+      <div class="section">
+        <label for="brown-skirt" class="option"><input (click)="skirt()" class="radio" type="radio" name="skirt" value="brown skirt" id="brown-skirt">Brown faux-brick house skirt<img class="option-img" src="/assets/images/houses/manufactured/brown brick skirt.JPG" alt="brown skirt"></label>
+        <label for="red-skirt" class="option"><input (click)="skirt()" class="radio" type="radio" name="skirt" value="red skirt" id="red-skirt">Red faux-brick house skirt<img class="option-img" src="/assets/images/houses/manufactured/red brick skirt.JPG" alt="red skirt"></label>
+      </div>
     </section>
     <section id="deck" class="hidden">
-      <h2>Upgrade your back deck:</h2>
+      <h2>Upgrade your back deck:<span id="deck-price" class="right"></span></h2>
+      <div class="section">
+        <label for="standard-deck" class="option"><input (click)="deck(0)" class="radio" type="radio" name="deck" value="standard deck" id="standard-deck">4' x 4' standard deck<img class="option-img" src="/assets/images/houses/manufactured/small_deck.jpg" alt="standard deck"></label>
+        <label for="large-deck" class="option"><input (click)="deck(1800)" class="radio" type="radio" name="deck" value="large deck" id="large-deck">12' x 12' deck<img class="option-img" src="/assets/images/houses/manufactured/large_deck.jpeg" alt="large deck"></label>
+      </div>
     </section>
-    <section id="sod" class="hidden">
-      <h2>Upgrade your lawn:</h2>
+    <section id="yard" class="hidden">
+      <h2>Upgrade your lawn:<span id="yard-price" class="right"></span></h2>
+      <div class="section">
+        <label for="seed" class="option"><input (click)="yard(0)" class="radio" type="radio" name="yard" value="seed" id="seed"><div class="option-text">Seeded yard around house</div></label>
+        <label for="sod" class="option"><input (click)="yard(1750)" class="radio" type="radio" name="yard" value="sod" id="sod"><div class="option-text">Sod<hr/><br/>20' back yard<br/>10' side yard<br/>front to street</div></label>
+        </div>
     </section>
     <section id="flower-beds" class="hidden">
-      <h2>Add a flower bed:</h2>
+      <h2>Add a flower bed:<span id="flower-price" class="right"></span></h2>
+      <div class="section">
+        <label for="no-flowers" class="option"><input (click)="flower(0)" class="radio" type="radio" name="flower" value="no flowers" id="no-flowers"><div class="option-text">No flower bed</div></label>
+        <label for="incl-flowers" class="option"><input (click)="flower(3750)" class="radio" type="radio" name="flower" value="including flower bed" id="incl-flowers">Flower bed<img class="option-img" src="/assets/images/houses/manufactured/flowers.jpg" alt="flower bed">Both sides of front steps<br/>includes plants, 2 trees, and stone borders</label>
+      </div>
     </section>
     <section id="sprinkler" class="hidden">
-      <h2>Add a sprinkler system:</h2>
+      <h2>Add a sprinkler system:<span id="sprinkler-price" class="right"></span></h2>
+      <div class="section">
+        <label for="no-sprinkler" class="option"><input (click)="sprinkler(0)" class="radio" type="radio" name="sprinkler" value="no sprinkler" id="no-sprinkler"><div class="option-text">No sprinkler</div></label>
+        <label for="incl-sprinkler" class="option"><input (click)="sprinkler(3500)" class="radio" type="radio" name="sprinkler" value="incl sprinkler" id="incl-sprinkler"><div class="option-text">Sprinkler system</div></label>
+      </div>
     </section>
+
     <section id="result">
       <h2 id="total">Total: <span></span></h2>
       <div class="centered">
