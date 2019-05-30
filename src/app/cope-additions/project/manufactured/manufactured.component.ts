@@ -9,6 +9,10 @@ export class ManufacturedComponent implements OnInit {
   dev = 0;
   plat = 0;
   model = 0;
+  door = 0;
+  floor = 0;
+  appl = 0;
+  ins = 0;
   sum = 0;
   sumstring: string;
 
@@ -147,6 +151,67 @@ export class ManufacturedComponent implements OnInit {
   intColor() {
     document.getElementById('front-door').style.display = "block";
     if(document.getElementById('flooring').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  extDoor(price: number) {
+    this.door = price;
+    document.getElementById('door-price').innerHTML = 'Door upgrade: $' + price;
+    document.getElementById('flooring').style.display = "block";
+    if(document.getElementById('kitchen').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  flooring(price: number) {
+    this.floor = price;
+    document.getElementById('floor-price').innerHTML = 'Bedroom flooring upgrade: $' + price;
+    document.getElementById('kitchen').style.display = "block";
+    if(document.getElementById('sink').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  appliances(price: number) {
+    this.appl = price;
+    document.getElementById('appliance-price').innerHTML = 'Appliance upgrade: $' + price;
+    document.getElementById('sink').style.display = "block";
+    if(document.getElementById('insulation').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  sink() {
+    document.getElementById('insulation').style.display = "block";
+    if(document.getElementById('garage').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  insulation(price: number) {
+    this.ins = price;
+    document.getElementById('insulation-price').innerHTML = 'Insulation upgrade: $' + price;
+    document.getElementById('garage').style.display = "block";
+    if(document.getElementById('shed').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  shed(price: number) {
+    this.ins = price;
+    document.getElementById('shed-price').innerHTML = 'Added shed: $' + price;
+    document.getElementById('skirt').style.display = "block";
+    if(document.getElementById('deck').style.display !== 'block') {
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  garage(price: number) {
+    this.ins = price;
+    document.getElementById('garage-price').innerHTML = 'Added garage: $' + price;
+    document.getElementById('shed').style.display = "block";
+    if(document.getElementById('skirt').style.display !== 'block') {
       window.scrollTo(0,document.body.scrollHeight);
     }
   }

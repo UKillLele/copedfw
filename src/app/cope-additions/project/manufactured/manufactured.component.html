@@ -12,7 +12,7 @@
     </section>
     <section id="lot" class="hidden">
       <div id="plat8" class="hidden">
-        <h2>Choose your acre: <span id="lot-selection8"></span><span id="lot-price8"></span></h2>
+        <h2>Choose your homesite: <span id="lot-selection8"></span><span id="lot-price8" class="right"></span></h2>
         <div class="section">
           <div class="plat-container">
             <img  class="plat" src="/assets/images/plats/ca8.png" alt="Patriot Place">
@@ -67,7 +67,7 @@
         </div>
       </div>
       <div id="plat7" class="hidden">
-        <h2>Choose your acre: <span id="lot-selection7"></span><span id="lot-price7"></span></h2>
+        <h2>Choose your homesite: <span id="lot-selection7"></span><span id="lot-price7" class="right"></span></h2>
         <div class="section">
           <div class="plat-container">
             <img  class="plat" src="/assets/images/plats/ca7.png" alt="Providence Point">
@@ -149,72 +149,97 @@
       <div class="section">
         <label for="williamsburg" class="option"><input (click)="wModel()" class="radio" type="radio" name="model" value="williamsburg" id="williamsburg">The Williamsburg<img class="option-img" src="/assets/images/ca7/absolute value.jpg" alt="The Williamsburg"><a href="/assets/images/ca7/WilliamsburgFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
         <label for="concord" class="option"><input (click)="cModel()" class="radio" type="radio" name="model" value="concord" id="concord">The Concord<img class="option-img" src="/assets/images/ca7/Choice.jpg" alt="The Concord"><a href="/assets/images/ca7/ConcordFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
-        <label for="richmond" class="option"><input (click)="rModel()" class=radio type="radio" name="model" value="richmond" id="richmond">The Richmond<img class="option-img" src="/assets/images/ca7/Sundowner.jpg" alt="The Richmond"><a href="/assets/images/ca7/RichmondFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
-        <label for="deerfield" class="option"><input (click)="dModel()" class=radio type="radio" name="model" value="deerfield" id="deerfield">The Deerfield<img class="option-img" src="/assets/images/ca7/pt-78.jpg" alt="The Deerfield"><a href="/assets/images/ca7/DeerfieldFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
+        <label for="richmond" class="option"><input (click)="rModel()" class="radio" type="radio" name="model" value="richmond" id="richmond">The Richmond<img class="option-img" src="/assets/images/ca7/Sundowner.jpg" alt="The Richmond"><a href="/assets/images/ca7/RichmondFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
+        <label for="deerfield" class="option"><input (click)="dModel()" class="radio" type="radio" name="model" value="deerfield" id="deerfield">The Deerfield<img class="option-img" src="/assets/images/ca7/pt-78.jpg" alt="The Deerfield"><a href="/assets/images/ca7/DeerfieldFP.jpg" target="iframe" (click)="openFP()"><button class="option-details" type="button" name="button">View Floorplan</button></a></label>
       </div>
     </section>
-    <section id="trim" class="hidden" (click)="trim()">
+    <section id="trim" class="hidden">
       <h2>Choose your home trim:</h2>
       <div class="section hidden" id="williamsburg-trim">
-        <label for="horizontal-stripe-williamsburg" class="option"><input class="radio" type="radio" name="williamsburg" value="horizontal stripe" id="horizontal-stripe-williamsburg">Horizontal stripe<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el1 beige blue.jpg" alt="Horizontal stripe"></label>
-        <label for="gable-bracket-williamsburg" class="option"><input class="radio" type="radio" name="williamsburg" value="gable bracket" id="gable-bracket-williamsburg">Gable bracket<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el2 beige blue.jpg" alt="Gable bracket"></label>
-        <label for="triple-gable-williamsburg" class="option"><input class=radio type="radio" name="williamsburg" value="triple gable" id="triple-gable-williamsburg">Double gable<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige blue.jpg" alt="Double gable"></label>
+        <label for="horizontal-stripe-williamsburg" class="option"><input (click)="trim()" class="radio" type="radio" name="williamsburg" value="horizontal stripe" id="horizontal-stripe-williamsburg">Horizontal stripe<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el1 beige blue.jpg" alt="Horizontal stripe"></label>
+        <label for="gable-bracket-williamsburg" class="option"><input (click)="trim()" class="radio" type="radio" name="williamsburg" value="gable bracket" id="gable-bracket-williamsburg">Gable bracket<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el2 beige blue.jpg" alt="Gable bracket"></label>
+        <label for="triple-gable-williamsburg" class="option"><input (click)="trim()" class="radio" type="radio" name="williamsburg" value="triple gable" id="triple-gable-williamsburg">Double gable<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige blue.jpg" alt="Double gable"></label>
       </div>
       <div class="section hidden" id="concord-trim">
-        <label for="gable-bracket-concord" class="option"><input class="radio" type="radio" name="concord" value="gable bracket" id="gable-bracket-concord">Gable bracket<img class="option-img" src="/assets/images/houses/manufactured/concord/Choice Exterior Option 2.png" alt="Gable bracket"></label>
-        <label for="double-gable-concord" class="option"><input class=radio type="radio" name="concord" value="double gable" id="double-gable-concord">Double gable<img class="option-img" src="/assets/images/houses/manufactured/concord/Choice Exterior Option 1.png" alt="Double gable"></label>
+        <label for="gable-bracket-concord" class="option"><input (click)="trim()" class="radio" type="radio" name="concord" value="gable bracket" id="gable-bracket-concord">Gable bracket<img class="option-img" src="/assets/images/houses/manufactured/concord/Choice Exterior Option 2.png" alt="Gable bracket"></label>
+        <label for="double-gable-concord" class="option"><input (click)="trim()" class="radio" type="radio" name="concord" value="double gable" id="double-gable-concord">Double gable<img class="option-img" src="/assets/images/houses/manufactured/concord/Choice Exterior Option 1.png" alt="Double gable"></label>
       </div>
       <div class="section hidden" id="richmond-trim">
-        <label for="single-gable-richmond" class="option"><input class="radio" type="radio" name="richmond" value="single gable" id="single-gable-richmond">Single gable<img class="option-img" src="/assets/images/houses/manufactured/richmond/Sundowner Exterior 1.png" alt="Gable bracket"></label>
-        <label for="double-gable-richmond" class="option"><input class=radio type="radio" name="richmond" value="double gable" id="double-gable-richmond">Double gable<img class="option-img" src="/assets/images/houses/manufactured/richmond/Sundowner Exterior 2.png" alt="Double gable"></label>
+        <label for="single-gable-richmond" class="option"><input (click)="trim()" class="radio" type="radio" name="richmond" value="single gable" id="single-gable-richmond">Single gable<img class="option-img" src="/assets/images/houses/manufactured/richmond/Sundowner Exterior 1.png" alt="Gable bracket"></label>
+        <label for="double-gable-richmond" class="option"><input (click)="trim()" class="radio" type="radio" name="richmond" value="double gable" id="double-gable-richmond">Double gable<img class="option-img" src="/assets/images/houses/manufactured/richmond/Sundowner Exterior 2.png" alt="Double gable"></label>
       </div>
       <div class="section hidden" id="deerfield-trim">
-        <label for="single-gable-deerfield" class="option"><input class="radio" type="radio" name="deerfield" value="single gable" id="single-gable-deerfield">Single gable<img class="option-img" src="/assets/images/houses/manufactured/deerfield/PT-78 Exterior 1.jpg" alt="Gable bracket"></label>
-        <label for="double-gable-deerfield" class="option"><input class=radio type="radio" name="deerfield" value="double gable" id="double-gable-deerfield">Double gable<img class="option-img" src="/assets/images/houses/manufactured/deerfield/PT-78 Exterior 2.jpg" alt="Double gable"></label>
+        <label for="single-gable-deerfield" class="option"><input (click)="trim()" class="radio" type="radio" name="deerfield" value="single gable" id="single-gable-deerfield">Single gable<img class="option-img" src="/assets/images/houses/manufactured/deerfield/PT-78 Exterior 1.jpg" alt="Gable bracket"></label>
+        <label for="double-gable-deerfield" class="option"><input (click)="trim()" class="radio" type="radio" name="deerfield" value="double gable" id="double-gable-deerfield">Double gable<img class="option-img" src="/assets/images/houses/manufactured/deerfield/PT-78 Exterior 2.jpg" alt="Double gable"></label>
       </div>
     </section>
-    <section id="ext-color" class="hidden" (click)="extColor()">
+    <section id="ext-color" class="hidden">
       <h2>Choose your home colors:</h2>
       <div class="section">
-        <label for="beige-blue" class="option"><input class=radio type="radio" name="ext-color" value="beige blue" id="beige-blue">Beige/Blue<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige blue-01.jpg" alt="Beige/Blue"></label>
-        <label for="beige-gray" class="option"><input class=radio type="radio" name="ext-color" value="beige gray" id="beige-gray">Beige/Gray<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige gray-01.jpg" alt="Beige/Gray"></label>
-        <label for="brown-green" class="option"><input class=radio type="radio" name="ext-color" value="brown green" id="brown-green">Brown/Green<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 brown green-01.jpg" alt="Brown/Green"></label>
-        <label for="gray-red" class="option"><input class=radio type="radio" name="ext-color" value="gray red" id="gray-red">Gray/Red<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 gray red-01.jpg" alt="Gray/Red"></label>
-        <label for="tan-brown" class="option"><input class=radio type="radio" name="ext-color" value="tan brown" id="tan-brown">Tan/Brown<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 tan brown-01.jpg" alt="Tan/Brown"></label>
+        <label for="beige-blue" class="option"><input (click)="extColor()" class="radio" type="radio" name="ext-color" value="beige blue" id="beige-blue">Beige/Blue<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige blue-01.jpg" alt="Beige/Blue"></label>
+        <label for="beige-gray" class="option"><input (click)="extColor()" class="radio" type="radio" name="ext-color" value="beige gray" id="beige-gray">Beige/Gray<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 beige gray-01.jpg" alt="Beige/Gray"></label>
+        <label for="brown-green" class="option"><input (click)="extColor()" class="radio" type="radio" name="ext-color" value="brown green" id="brown-green">Brown/Green<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 brown green-01.jpg" alt="Brown/Green"></label>
+        <label for="gray-red" class="option"><input (click)="extColor()" class="radio" type="radio" name="ext-color" value="gray red" id="gray-red">Gray/Red<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 gray red-01.jpg" alt="Gray/Red"></label>
+        <label for="tan-brown" class="option"><input (click)="extColor()" class="radio" type="radio" name="ext-color" value="tan brown" id="tan-brown">Tan/Brown<img class="option-img" src="/assets/images/houses/manufactured/williamsburg/el3 tan brown-01.jpg" alt="Tan/Brown"></label>
       </div>
     </section>
     <section id="int-color" class="hidden">
       <h2>Choose your interior colors:</h2>
       <div class="section">
-        <label for="kitchen-white" class="option"><input class=radio type="radio" name="int-color" value="white kitchen" id="kitchen-white">White kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_white.jpg" alt="white kitchen"></label>
-        <label for="kitchen-dark" class="option"><input class=radio type="radio" name="int-color" value="dark kitchen" id="kitchen-dark">Dark kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_dark.jpg" alt="dark kitchen"></label>
-        <label for="kitchen-light" class="option"><input class=radio type="radio" name="int-color" value="light kitchen" id="kitchen-light">Light kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_light.jpg" alt="light kitchen"></label>
+        <label for="kitchen-white" class="option"><input (click)="intColor()" class="radio" type="radio" name="int-color" value="white kitchen" id="kitchen-white">White kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_white.jpg" alt="white kitchen"></label>
+        <label for="kitchen-dark" class="option"><input (click)="intColor()" class="radio" type="radio" name="int-color" value="dark kitchen" id="kitchen-dark">Dark kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_dark.jpg" alt="dark kitchen"></label>
+        <label for="kitchen-light" class="option"><input (click)="intColor()" class="radio" type="radio" name="int-color" value="light kitchen" id="kitchen-light">Light kitchen<img class="option-img" src="/assets/images/houses/manufactured/kitchen_light.jpg" alt="light kitchen"></label>
       </div>
     </section>
     <section id="front-door" class="hidden">
-      <h2>Upgrade your front door:</h2>
+      <h2>Upgrade your front door: <span id="door-price" class="right"></span></h2>
       <div class="section">
-        <label for="standard-door" class="option"><input class=radio type="radio" name="front-door" value="standard door" id="standard-door">Standard door<img class="option-img" src="/assets/images/houses/manufactured/standard_door.jpg" alt="standard door"></label>
-        <label for="artisan-door" class="option"><input class=radio type="radio" name="front-door" value="artisan door" id="artisan-door">Artisan door<img class="option-img" src="/assets/images/houses/manufactured/artisan_door.jpg" alt="artisan door"></label>
+        <label for="standard-door" class="option"><input (click)="extDoor(0)" class="radio" type="radio" name="front-door" value="standard door" id="standard-door">Standard door<img class="option-img" src="/assets/images/houses/manufactured/standard_door.jpg" alt="standard door"></label>
+        <label for="artisan-door" class="option"><input (click)="extDoor(700)" class="radio" type="radio" name="front-door" value="artisan door" id="artisan-door">Artisan door<img class="option-img" src="/assets/images/houses/manufactured/artisan_door.jpg" alt="artisan door"></label>
       </div>
     </section>
     <section id="flooring" class="hidden">
-      <h2>Upgrade your flooring:</h2>
+      <h2>Upgrade your bedroom floors: <span id="floor-price" class="right"></span></h2>
+      <div class="section">
+        <label for="carpet" class="option"><input (click)="flooring(0)" class="radio" type="radio" name="flooring" value="carpet" id="carpet">Carpet<img class="option-img" src="/assets/images/houses/manufactured/carpet.jpg" alt="carpet"></label>
+        <label for="wood" class="option"><input (click)="flooring(500)" class="radio" type="radio" name="flooring" value="wood-look vinyl" id="wood">Wood-look vinyl<img class="option-img" src="/assets/images/houses/manufactured/wood_vinyl.jpg" alt="Wood-look vinly">color depends on interior color package</label>
+      </div>
     </section>
     <section id="kitchen" class="hidden">
-      <h2>Upgrade your kitchen:</h2>
+      <h2>Upgrade your kitchen:<span id="appliance-price" class="right"></span></h2>
+      <div class="section">
+        <label for="premium-kitchen" class="option"><input (click)="appliances(0)" class="radio" type="radio" name="appliances" value="premium kitchen" id="premium-kitchen">Premium kitchen<img class="option-img" src="/assets/images/houses/manufactured/black_appliances.jpg" alt="premium kitchen">18 cubic foot refrigerator with ice maker<br/>30" coil-top electric range<br/>Standard built-in dishwasher<br/>Microwave over range</label>
+        <label for="dream-kitchen-black" class="option"><input (click)="appliances(1200)" class="radio" type="radio" name="appliances" value="dream kitchen black" id="dream-kitchen-black">Dream kitchen in black<img class="option-img" src="/assets/images/houses/manufactured/dream_kitchen_black.jpg" alt="dream kitchen in black">26 cubic foot side-by-side refrigerator with water and ice in door<br/>30" smooth-top elecric range<br/>Standard build-in dishwasher<br/>Microwave over range</label>
+        <label for="dream-kitchen-steel" class="option"><input (click)="appliances(2000)" class="radio" type="radio" name="appliances" value="dream kitchen in stainless steel" id="dream-kitchen-steel">Dream kitchen in stainless steel<img class="option-img" src="/assets/images/houses/manufactured/steel_appliances.jpg" alt="dream kitchen in stainless steel">26 cubic foot side-by-side refrigerator with water and ice in door<br/>30" smooth-top elecric range<br/>Standard build-in dishwasher<br/>Microwave over range</label>
+      </div>
     </section>
     <section id="sink" class="hidden">
       <h2>Choose your kitchen sink color:</h2>
+      <div class="section">
+        <label for="black-sink" class="option"><input (click)="sink()" class="radio" type="radio" name="sink" value="black sink" id="black-sink">Black farmhouse kitchen sink<img class="option-img" src="/assets/images/houses/manufactured/black_sink.jpg" alt="black sink"></label>
+        <label for="white-sink" class="option"><input (click)="sink()" class="radio" type="radio" name="sink" value="white sink" id="white-sink">White farmhouse kitchen sink<img class="option-img" src="/assets/images/houses/manufactured/white_sink.jpg" alt="white sink"></label>
+      </div>
     </section>
     <section id="insulation" class="hidden">
-      <h2>Upgrade your insulation:</h2>
+      <h2>Upgrade your insulation:<span id="insulation-price" class="right"></span></h2>
+      <div class="section">
+        <label for="standard-insulation" class="option"><input (click)="insulation(0)" class="radio" type="radio" name="insulation" value="standard insulation" id="standard-insulation"><div class="option-text"><div>Standard insulation:</div><br/>R-11 floor insulation<br/>R-11 wall insulation<br/>R-21 ceiling insulation</div></label>
+        <label for="premium-insulation" class="option"><input (click)="insulation(1000)" class="radio" type="radio" name="insulation" value="premium insulation" id="premium-insulation"><div class="option-text"><div>Premium insulation:</div><br/>R-22 floor insulation<br/>R-11 wall insulation<br/>R-33 ceiling insulation</div></label>
+      </div>
     </section>
     <section id="garage" class="hidden">
-      <h2>Add a garage:</h2>
+      <h2>Add a garage:<span id="garage-price" class="right"></span></h2>
+      <div class="section">
+        <label for="no-garage" class="option"><input (click)="garage(0)" class="radio" type="radio" name="garage" value="no garage" id="no-garage"><div class="option-text">No garage</div></label>
+        <label for="incl-garage" class="option"><input (click)="garage(29000)" class="radio" type="radio" name="garage" value="including garage" id="incl-garage">Garage<img class="option-img" src="/assets/images/houses/manufactured/garage.jpg" alt="garage">24' x 41'<br/>Two garage doors<br/>One pedestrian door<br/>Two windows</label>
+      </div>
     </section>
-    <section id="shed" class="hidden">
-      <h2>Add a shed:</h2>
+    <section id="shed" class="">
+      <h2>Add a shed:<span id="shed-price" class="right"></span></h2>
+      <div class="section">
+        <label for="no-shed" class="option"><input (click)="shed(0)" class="radio" type="radio" name="shed" value="no shed" id="no-shed"><div class="option-text">No shed</div></label>
+        <label for="incl-shed" class="option"><input (click)="shed(3700)" class="radio" type="radio" name="shed" value="including shed" id="incl-shed">Shed<img class="option-img" src="/assets/images/houses/manufactured/shed.jpg" alt="shed">10' x 12'</label>
+      </div>
     </section>
     <section id="skirt" class="hidden">
       <h2>Choose your home's skirt:</h2>

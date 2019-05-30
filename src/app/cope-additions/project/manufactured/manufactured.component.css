@@ -4,6 +4,7 @@
 .section {
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 .option {
   display: block;
@@ -17,8 +18,14 @@
 .option-img {
   display: block;
   height: 200px;
-  margin: 5px;
+  margin: 5px auto;
   border-radius: 50%;
+}
+.option-text {
+  display: block;
+  padding: 10px;
+  margin: 5px auto;
+  border: 3px solid lightgray;
 }
 .plat-container {
   position: relative;
@@ -41,10 +48,12 @@
   z-index: 1;
   padding: 17px 0 0 22px;
 }
-span#lot-price8, span#lot-price7 {
+.right {
   float: right;
   font-size: 1.5vw;
   font-weight: normal;
+  text-decoration: underline;
+  text-decoration-color: navy;
 }
 .radio {
   position: absolute;
@@ -52,14 +61,14 @@ span#lot-price8, span#lot-price7 {
   width: 0;
   height: 0;
 }
-.radio + .option-img, .radio + .option-logo {
+.radio + .option-img, .radio + .option-logo, .radio + .option-text {
   cursor: pointer;
 }
 .radio:checked + .option-img {
   border: 3px solid #f00;
   border-radius: 50%;
 }
-.radio:checked + .option-logo {
+.radio:checked + .option-logo, .radio:checked + .option-text {
   border: 3px solid #f00;
 }
 .hidden {
