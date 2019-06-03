@@ -6,9 +6,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ManufacturedComponent implements OnInit {
   display = false;
-  dev = 0;
+  dev = 139000;
   plat = 0;
   model = 0;
+  floorplan = 0;
   door = 0;
   floor = 0;
   appl = 0;
@@ -19,8 +20,6 @@ export class ManufacturedComponent implements OnInit {
   yardupg = 0;
   flowers = 0;
   sprinklers = 0;
-  sum = 0;
-  sumstring: string;
 
   constructor() {
   }
@@ -34,243 +33,262 @@ export class ManufacturedComponent implements OnInit {
     }
   }
 
-  development(price: number) {
-    this.plat = 0;
-    this.dev = price;
-    document.getElementById('lot-selection8').innerHTML = ' ';
-    document.getElementById('lot-selection7').innerHTML = ' ';
-    this.total();
-  }
-
-  dev8(){
-    document.getElementById('lot').style.display = 'block';
-    document.getElementById('plat8').style.display = 'block';
-    document.getElementById('plat7').style.display = 'none';
-    if(document.getElementById('model').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
-    this.total();
-  }
-
-  dev7() {
-    document.getElementById('lot').style.display = 'block';
-    document.getElementById('plat8').style.display = 'none';
-    document.getElementById('plat7').style.display = 'block';
-    if(document.getElementById('model').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
-    this.total();
-  }
-
   plat8(lot: string, price: number) {
-    document.getElementById('lot-selection8').innerHTML = '<span style="border: 3px solid #f00; padding: 2px;">' + lot;
-    document.getElementById('lot-price8').innerHTML = 'lot premium: $' + price;
     this.plat = price;
-    document.getElementById('model').style.display = 'block';
-    if(document.getElementById('trim').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
-    this.total();
-  }
-
-  plat7(lot: string, price: number) {
-    document.getElementById('lot-selection7').innerHTML = '<span style="border: 3px solid #f00; padding: 2px;">' + lot;
-    document.getElementById('lot-price7').innerHTML = 'lot premium: $' + price;
-    this.plat = price;
-    document.getElementById('model').style.display = 'block';
-    if(document.getElementById('trim').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('model');
+    var end = document.getElementById('lot-price');
+    document.getElementById('lot-selection').innerHTML = '<span style="border: 3px solid #f00; padding: 2px;">' + lot;
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'lot premium: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   wModel() {
     this.model = 85900;
-    document.getElementById('trim').style.display = 'block';
-    document.getElementById('williamsburg-trim').style.display = 'flex';
-    document.getElementById('concord-trim').style.display = 'none';
-    document.getElementById('richmond-trim').style.display = 'none';
-    document.getElementById('deerfield-trim').style.display = 'none';
-    if(document.getElementById('ext-color').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('floorplan');
+    var end = document.getElementById('model-price');
+    document.getElementById('williamsburg-upgrades').style.display = 'flex';
+    document.getElementById('concord-upgrades').style.display = 'none';
+    document.getElementById('richmond-upgrades').style.display = 'none';
+    document.getElementById('deerfield-upgrades').style.display = 'none';
+    this.nextFn(next, end);
     this.total();
   }
 
   cModel() {
     this.model = 80900;
-    document.getElementById('trim').style.display = 'block';
-    document.getElementById('williamsburg-trim').style.display = 'none';
-    document.getElementById('concord-trim').style.display = 'flex';
-    document.getElementById('richmond-trim').style.display = 'none';
-    document.getElementById('deerfield-trim').style.display = 'none';
-    if(document.getElementById('ext-color').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('floorplan');
+    var end = document.getElementById('model-price');
+    document.getElementById('williamsburg-upgrades').style.display = 'none';
+    document.getElementById('concord-upgrades').style.display = 'flex';
+    document.getElementById('richmond-upgrades').style.display = 'none';
+    document.getElementById('deerfield-upgrades').style.display = 'none';
+    this.nextFn(next, end);
     this.total();
   }
 
   rModel() {
     this.model = 75900;
-    document.getElementById('trim').style.display = 'block';
-    document.getElementById('williamsburg-trim').style.display = 'none';
-    document.getElementById('concord-trim').style.display = 'none';
-    document.getElementById('richmond-trim').style.display = 'flex';
-    document.getElementById('deerfield-trim').style.display = 'none';
-    if(document.getElementById('ext-color').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('floorplan');
+    var end = document.getElementById('model-price');
+    document.getElementById('williamsburg-upgrades').style.display = 'none';
+    document.getElementById('concord-upgrades').style.display = 'none';
+    document.getElementById('richmond-upgrades').style.display = 'flex';
+    document.getElementById('deerfield-upgrades').style.display = 'none';
+    this.nextFn(next, end);
     this.total();
   }
 
   dModel() {
     this.model = 70900;
-    document.getElementById('trim').style.display = 'block';
+    var next = document.getElementById('floorplan');
+    var end = document.getElementById('model-price');
+    document.getElementById('williamsburg-upgrades').style.display = 'none';
+    document.getElementById('concord-upgrades').style.display = 'none';
+    document.getElementById('richmond-upgrades').style.display = 'none';
+    document.getElementById('deerfield-upgrades').style.display = 'flex';
+    this.nextFn(next, end);
+    this.total();
+  }
+
+  wFloorplan(price: number) {
+    this.floorplan = price;
+    var next = document.getElementById('trim');
+    var end = document.getElementById('plan-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Floorplan upgrade: $' + priceString;
+    document.getElementById('williamsburg-trim').style.display = 'flex';
+    document.getElementById('concord-trim').style.display = 'none';
+    document.getElementById('richmond-trim').style.display = 'none';
+    document.getElementById('deerfield-trim').style.display = 'none';
+    var next = document.getElementById('trim');
+    this.nextFn(next, end);
+    this.total();
+  }
+
+  cFloorplan(price: number) {
+    this.floorplan = price;
+    var next = document.getElementById('trim');
+    var end = document.getElementById('plan-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Floorplan upgrade: $' + priceString;
+    document.getElementById('williamsburg-trim').style.display = 'none';
+    document.getElementById('concord-trim').style.display = 'flex';
+    document.getElementById('richmond-trim').style.display = 'none';
+    document.getElementById('deerfield-trim').style.display = 'none';
+    this.nextFn(next, end);
+    this.total();
+  }
+
+  rFloorplan(price: number) {
+    this.floorplan = price;
+    var next = document.getElementById('trim');
+    var end = document.getElementById('plan-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Floorplan upgrade: $' + priceString;
+    document.getElementById('williamsburg-trim').style.display = 'none';
+    document.getElementById('concord-trim').style.display = 'none';
+    document.getElementById('richmond-trim').style.display = 'flex';
+    document.getElementById('deerfield-trim').style.display = 'none';
+    this.nextFn(next, end);
+    this.total();
+  }
+
+  dFloorplan(price: number) {
+    this.floorplan = price;
+    var next = document.getElementById('trim');
+    var end = document.getElementById('plan-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Floorplan upgrade: $' + priceString;
     document.getElementById('williamsburg-trim').style.display = 'none';
     document.getElementById('concord-trim').style.display = 'none';
     document.getElementById('richmond-trim').style.display = 'none';
     document.getElementById('deerfield-trim').style.display = 'flex';
-    if(document.getElementById('ext-color').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    this.nextFn(next, end);
     this.total();
   }
 
   trim() {
-    document.getElementById('ext-color').style.display = "block";
-    if(document.getElementById('int-color').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+  var next = document.getElementById('ext-color');
+  var end = document.getElementById('trim-price');
+  this.nextFn(next, end);
   }
 
   extColor() {
-    document.getElementById('int-color').style.display = "block";
-    if(document.getElementById('front-door').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+  var next = document.getElementById('skirt');
+  var end = document.getElementById('ext-price');
+  this.nextFn(next, end);
   }
 
-  intColor() {
-    document.getElementById('front-door').style.display = "block";
-    if(document.getElementById('flooring').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+  skirt() {
+  var next = document.getElementById('front-door');
+  var end = document.getElementById('skirt-price');
+  this.nextFn(next, end);
   }
 
   extDoor(price: number) {
     this.door = price;
-    document.getElementById('door-price').innerHTML = 'Door upgrade: $' + price;
-    document.getElementById('flooring').style.display = "block";
-    if(document.getElementById('kitchen').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('deck');
+    var end = document.getElementById('door-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Door upgrade: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
-  flooring(price: number) {
-    this.floor = price;
-    document.getElementById('floor-price').innerHTML = 'Bedroom flooring upgrade: $' + price;
-    document.getElementById('kitchen').style.display = "block";
-    if(document.getElementById('sink').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+  deck(price: number) {
+    this.decking = price;
+    var next = document.getElementById('int-color');
+    var end = document.getElementById('deck-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Deck upgrade: $' + priceString;
+    this.nextFn(next, end);
     this.total();
+  }
+
+  intColor() {
+  var next = document.getElementById('kitchen');
+  var end = document.getElementById('int-price');
+  this.nextFn(next, end);
   }
 
   appliances(price: number) {
     this.appl = price;
-    document.getElementById('appliance-price').innerHTML = 'Appliance upgrade: $' + price;
-    document.getElementById('sink').style.display = "block";
-    if(document.getElementById('insulation').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('sink');
+    var end = document.getElementById('appliance-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Appliance upgrade: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   sink() {
-    document.getElementById('insulation').style.display = "block";
-    if(document.getElementById('garage').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+  var next = document.getElementById('flooring');
+  var end = document.getElementById('sink-price');
+  this.nextFn(next, end);
+  }
+
+  flooring(price: number) {
+    this.floor = price;
+    var next = document.getElementById('insulation');
+    var end = document.getElementById('floor-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Bedroom flooring upgrade: $' + priceString;
+    this.nextFn(next, end);
+    this.total();
   }
 
   insulation(price: number) {
     this.ins = price;
-    document.getElementById('insulation-price').innerHTML = 'Insulation upgrade: $' + price;
-    document.getElementById('garage').style.display = "block";
-    if(document.getElementById('shed').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('garage');
+    var end = document.getElementById('insulation-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Insulation upgrade: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   garage(price: number) {
     this.addgarage = price;
-    document.getElementById('garage-price').innerHTML = 'Added garage: $' + price;
-    document.getElementById('shed').style.display = "block";
-    if(document.getElementById('skirt').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('shed');
+    var end = document.getElementById('garage-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Added garage: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   shed(price: number) {
     this.backshed = price;
-    document.getElementById('shed-price').innerHTML = 'Added shed: $' + price;
-    document.getElementById('skirt').style.display = "block";
-    if(document.getElementById('deck').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
-    this.total();
-  }
-
-  skirt() {
-    document.getElementById('deck').style.display = "block";
-    if(document.getElementById('yard').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
-  }
-
-  deck(price: number) {
-    this.decking = price;
-    document.getElementById('deck-price').innerHTML = 'Deck upgrade: $' + price;
-    document.getElementById('yard').style.display = "block";
-    if(document.getElementById('flower-beds').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('yard');
+    var end = document.getElementById('shed-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Added shed: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   yard(price: number) {
     this.yardupg = price;
-    document.getElementById('yard-price').innerHTML = 'Yard upgrade: $' + price;
-    document.getElementById('flower-beds').style.display = "block";
-    if(document.getElementById('sprinkler').style.display !== 'block') {
-      window.scrollTo(0,document.body.scrollHeight);
-    }
+    var next = document.getElementById('flower-beds');
+    var end = document.getElementById('yard-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Yard upgrade: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   flower(price: number) {
     this.flowers = price;
-    document.getElementById('flower-price').innerHTML = 'Added flower bed: $' + price;
-    document.getElementById('sprinkler').style.display = "block";
-    window.scrollTo(0,document.body.scrollHeight);
+    var next = document.getElementById('sprinkler');
+    var end = document.getElementById('flower-price');
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Added flower bed: $' + priceString;
+    this.nextFn(next, end);
     this.total();
   }
 
   sprinkler(price: number) {
     this.sprinklers = price;
-    document.getElementById('sprinkler-price').innerHTML = 'Added sprinkler system: $' + price;
-    document.getElementById('end').style.display = "block";
+    var end = document.getElementById('sprinkler-price')
+    var priceString = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    end.innerHTML = 'Added sprinkler system: $' + priceString;
     document.getElementById('submit').removeAttribute('disabled');
     this.total();
   }
 
   total() {
-    this.sum = this.dev + this.plat + this.model + this.door + this.floor + this.appl + this.ins + this.addgarage + this.backshed + this.decking + this.yardupg + this.flowers + this.sprinklers;
-    this.sumstring = this.sum.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-    document.getElementById('total').innerHTML = 'Total: $' + this.sumstring;
+    var sum = this.dev + this.plat + this.model + this.floorplan + this.door + this.floor + this.appl + this.ins + this.addgarage + this.backshed + this.decking + this.yardupg + this.flowers + this.sprinklers;
+    var sumString = sum.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    document.getElementById('total').innerHTML = 'Total: $' + sumString;
+  }
+
+  nextFn(next: HTMLElement, end: HTMLElement) {
+    if(next.style.display !== 'block') {
+      next.style.display = 'block';
+      end.scrollIntoView({behavior:'smooth', block:'start'});
+    }
   }
 
 }
