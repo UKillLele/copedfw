@@ -24,6 +24,9 @@ h2 {
   object-fit: contain;
   top: 0;
 }
+.iframe-container-left {
+  padding-bottom: 2vh;
+}
 .show {
   display: block;
 }

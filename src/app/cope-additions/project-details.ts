@@ -437,7 +437,7 @@ export const PROJECTS: Project[] = [
         <a href=\'/cope-additions/5/1710_Liberty_Lane\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><polygon class=\'sold\' points=\'406.5,40 454.6,40 454.6,79 399.2,133 378,123 \'alt=\'B-6\'><title>SOLD</title></polygon></a>
         <a href=\'/cope-additions/5/1717_Liberty_Lane\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><polygon class=\'sold\' points=\'454.6,87.5 453.3,204.2 394,163 399.4,139.3 \'alt=\'B-7\'><title>SOLD</title></polygon></a>
         <a href=\'/cope-additions/5/1711_Liberty_Lane\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><polygon class=\'sold\' points=\'364.1,168.8 390.8,168.8 453.3,209.5 453.3,227.5 364.1,226 \'alt=\'B-8\'><title>SOLD</title></polygon></a>
-        <a href=\'/cope-additions/5/3950_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'265.8\' y=\'156.5\' width=\'93.8\' height=\'46.3\'alt=\'B-9\'><title>lot for sale</title></rect></a>
+        <a href=\'/cope-additions/5/3821_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'265.8\' y=\'156.5\' width=\'93.8\' height=\'46.3\'alt=\'B-9\'><title>lot for sale</title></rect></a>
         <a href=\'/cope-additions/5/1660_Republic_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'265.8\' y=\'206.3\' width=\'45.3\' height=\'89\'alt=\'B-10\'><title>SOLD</title></rect></a>
         <a href=\'/cope-additions/5/1690_Republic_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'314.5\' y=\'206.3\' width=\'47\' height=\'89\'alt=\'B-11\'><title>SOLD</title></rect></a>
         <a href=\'/cope-additions/5/1714_Republic_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><polygon class=\'sold\' points=\'365.5,231.8 453.3,231.8 453.3,255.4 396.5,291.3 368.5,287 \'alt=\'B-12\'><title>SOLD</title></polygon></a>
@@ -449,7 +449,7 @@ export const PROJECTS: Project[] = [
         <a href=\'/cope-additions/5/1686_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><rect class=\'sold\' x=\'313.7\' y=\'410.3\' width=\'45.8\' height=\'92.3\'alt=\'B-18\'><title>SOLD</title></rect></a>
         <a href=\'/cope-additions/5/1704_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'363,410.3 449.8,410.3 385,491.5 363,498 \'alt=\'B-19\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1710_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'home-for-sale\' points=\'389.5,494 452.3,415 451.3,533.5 400,516 \'alt=\'B-20\'><title>home for sale</title></polygon></a>
-        <a href=\'/cope-additions/5/1711_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'home-for-sale\' points=\'398.5,520.4 449.8,539 449.8,594.8 392.5,594.8 379.7,534.5 \'alt=\'B-21\'><title>lot for sale</title></polygon></a>
+        <a href=\'/cope-additions/5/1711_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: default\'><polygon class=\'home-for-sale\' points=\'398.5,520.4 449.8,539 449.8,594.8 392.5,594.8 379.7,534.5 \'alt=\'B-21\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1695_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'322,522.8 359.5,522.8 373.5,533.5 386.8,596 322,594.8 \'alt=\'B-22\'><title>home for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1661_Freedom_Court\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'264.2,522.8 317.3,522.8 317.3,596 281.3,596 251,575.8 264.2,539.8 \'alt=\'B-23\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/1535_Liberty_Lane\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'62.5\' y=\'156.5\' width=\'90.5\' height=\'46.3\'alt=\'A-1\'><title>lot for sale</title></rect></a>
@@ -461,7 +461,7 @@ export const PROJECTS: Project[] = [
         <a href=\'/cope-additions/5/454_CR770\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'62\' y=\'509.8\' width=\'90.3\' height=\'55.3\'alt=\'A-7\'><title>lot for sale</title></rect></a>
         <a href=\'/cope-additions/5/4020_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><polygon class=\'lot-for-sale\' points=\'155.3,509.8 244.3,509.8 244.3,535.5 231.8,568.8 216.3,565 155.3,565 \'alt=\'A-8\'><title>lot for sale</title></polygon></a>
         <a href=\'/cope-additions/5/3980_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'156.3\' y=\'452.5\' width=\'88\' height=\'53.8\'alt=\'A-9\'><title>lot for sale</title></rect></a>
-        <a href=\'/cope-additions/5/3821_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'home-for-sale\' x=\'156.3\' y=\'394.3\' width=\'88\' height=\'54.8\'alt=\'A-10\'><title>home for sale</title></rect></a>
+        <a href=\'/cope-additions/5/3950_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'home-for-sale\' x=\'156.3\' y=\'394.3\' width=\'88\' height=\'54.8\'alt=\'A-10\'><title>home for sale</title></rect></a>
         <a href=\'/cope-additions/5/3910_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'156.3\' y=\'317.6\' width=\'88\' height=\'72.4\'alt=\'A-11\'><title>lot for sale</title></rect></a>
         <a href=\'/cope-additions/5/3870_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'home-for-sale\' x=\'156.3\' y=\'256.8\' width=\'88\' height=\'56.5\'alt=\'A-12\'><title>home for sale</title></rect></a>
         <a href=\'/cope-additions/5/3840_Independence_Way\' id=\'imgLink\' target=\'iframe\' style=\'cursor: pointer\'><rect class=\'lot-for-sale\' x=\'156.3\' y=\'206.3\' width=\'89\' height=\'47.3\'alt=\'A-13\'><title>lot for sale</title></rect></a>
@@ -476,20 +476,20 @@ export const PROJECTS: Project[] = [
         <polygon class=\'sold\' points=\'342,40 399.4,40 370.7,127.1 361.5,135 342,135 \'alt=\'B-5\'><title>SOLD</title></polygon></a>
         <polygon class=\'sold\' points=\'406.5,40 454.6,40 454.6,79 399.2,133 378,123 \'alt=\'B-6\'><title>SOLD</title></polygon></a>
         <polygon class=\'sold\' points=\'454.6,87.5 453.3,204.2 394,163 399.4,139.3 \'alt=\'B-7\'><title>SOLD</title></polygon></a>
-        <polygon class=\'sold\' points=\'364.1,168.8 390.8,168.8 453.3,209.5 453.3,227.5 364.1,226 \'alt=\'B-8\'><title>SOLD</title></polygon></a>
+        <polygon class=\'sold\' points=\'364.1,168.8 390.8,168.8 453.3,209.5 453.3,227.5 364.1,226 \'alt=\'B-8\'><title>SOLD</title></polygon>
         <a xlink:href=\'/cope-additions/5/3950_Independence_Way\' id=\'imgLink\' target=\'_self\' ><rect class=\'lot-for-sale\' x=\'265.8\' y=\'156.5\' width=\'93.8\' height=\'46.3\'alt=\'B-9\'><title>lot for sale</title></rect></a>
         <rect class=\'sold\' x=\'265.8\' y=\'206.3\' width=\'45.3\' height=\'89\'alt=\'B-10\'><title>SOLD</title></rect>
-        <rect class=\'sold\' x=\'314.5\' y=\'206.3\' width=\'47\' height=\'89\'alt=\'B-11\'><title>SOLD</title></rect></a>
-        <polygon class=\'sold\' points=\'365.5,231.8 453.3,231.8 453.3,255.4 396.5,291.3 368.5,287 \'alt=\'B-12\'><title>SOLD</title></polygon></a>
+        <rect class=\'sold\' x=\'314.5\' y=\'206.3\' width=\'47\' height=\'89\'alt=\'B-11\'><title>SOLD</title></rect>
+        <polygon class=\'sold\' points=\'365.5,231.8 453.3,231.8 453.3,255.4 396.5,291.3 368.5,287 \'alt=\'B-12\'><title>SOLD</title></polygon>
         <polygon class=\'sold\' points=\'399.4,297.2 453.3,263.5 452,401.3 395.3,322 \'alt=\'B-13\'><title>SOLD</title></polygon>
-        <polygon class=\'sold\' points=\'364.1,326.5 391.3,326.5 448.3,405.8 364.1,405.8 \'alt=\'B-14\'><title>SOLD</title></polygon></a>
-        <rect class=\'sold\' x=\'313.7\' y=\'315.8\' width=\'45.8\' height=\'91.4\'alt=\'B-15\'><title>SOLD</title></rect></a>
-        <rect class=\'sold\' x=\'263.5\' y=\'315.8\' width=\'47.5\' height=\'91.4\'alt=\'B-16\'><title>SOLD</title></rect></a>
-        <rect class=\'sold\' x=\'263.5\' y=\'410.3\' width=\'47.5\' height=\'92.3\'alt=\'B-17\'><title>SOLD</title></rect></a>
-        <rect class=\'sold\' x=\'313.7\' y=\'410.3\' width=\'45.8\' height=\'92.3\'alt=\'B-18\'><title>SOLD</title></rect></a>
+        <polygon class=\'sold\' points=\'364.1,326.5 391.3,326.5 448.3,405.8 364.1,405.8 \'alt=\'B-14\'><title>SOLD</title></polygon>
+        <rect class=\'sold\' x=\'313.7\' y=\'315.8\' width=\'45.8\' height=\'91.4\'alt=\'B-15\'><title>SOLD</title></rect>
+        <rect class=\'sold\' x=\'263.5\' y=\'315.8\' width=\'47.5\' height=\'91.4\'alt=\'B-16\'><title>SOLD</title></rect>
+        <rect class=\'sold\' x=\'263.5\' y=\'410.3\' width=\'47.5\' height=\'92.3\'alt=\'B-17\'><title>SOLD</title></rect>
+        <rect class=\'sold\' x=\'313.7\' y=\'410.3\' width=\'45.8\' height=\'92.3\'alt=\'B-18\'><title>SOLD</title></rect>
         <a xlink:href=\'/cope-additions/5/1740_Freedom_Court\' id=\'imgLink\' target=\'_self\' ><polygon class=\'lot-for-sale\' points=\'363,410.3 449.8,410.3 385,491.5 363,498 \'alt=\'B-19\'><title>lot for sale</title></polygon></a>
         <a xlink:href=\'/cope-additions/5/1710_Freedom_Court\' id=\'imgLink\' target=\'_self\' ><polygon class=\'lot-for-sale\' points=\'389.5,494 452.3,415 451.3,533.5 400,516 \'alt=\'B-20\'><title>lot for sale</title></polygon></a>
-        <a xlink:href=\'/cope-additions/5/1711_Freedom_Court\' id=\'imgLink\' target=\'_self\' ><polygon class=\'home-for-sale\' points=\'398.5,520.4 449.8,539 449.8,594.8 392.5,594.8 379.7,534.5 \'alt=\'B-21\'><title>lot for sale</title></polygon></a>
+        <polygon class=\'home-for-sale\' points=\'398.5,520.4 449.8,539 449.8,594.8 392.5,594.8 379.7,534.5 \'alt=\'B-21\'><title>lot for sale</title></polygon>
         <a xlink:href=\'/cope-additions/5/1695_Freedom_Court\' id=\'imgLink\' target=\'_self\' ><polygon class=\'lot-for-sale\' points=\'322,522.8 359.5,522.8 373.5,533.5 386.8,596 322,594.8 \'alt=\'B-22\'><title>home for sale</title></polygon></a>
         <a xlink:href=\'/cope-additions/5/1661_Freedom_Court\' id=\'imgLink\' target=\'_self\' ><polygon class=\'lot-for-sale\' points=\'264.2,522.8 317.3,522.8 317.3,596 281.3,596 251,575.8 264.2,539.8 \'alt=\'B-23\'><title>lot for sale</title></polygon></a>
         <a xlink:href=\'/cope-additions/5/1535_Liberty_Lane\' id=\'imgLink\' target=\'_self\' ><rect class=\'lot-for-sale\' x=\'62.5\' y=\'156.5\' width=\'90.5\' height=\'46.3\'alt=\'A-1\'><title>lot for sale</title></rect></a>
@@ -531,14 +531,14 @@ export const PROJECTS: Project[] = [
     id:6,
     Title:'Cope Addition VI',
     AdditionLogo:'background-image: url("/assets/images/ca6/Champions Circle Club.jpg");',
-    BackgroundImage:'background-image: url("/assets/blacklines/ca6/ca6blackline.jpg")',
-    ButtonLink:'/assets/blacklines/ca6/ca6blackline.jpg',
-    LargeDefault:'<a href="/assets/blacklines/ca6/ca6blackline.jpg" target="_self"><img class=\'large-image\' src=\'/assets/blacklines/ca6/ca6blackline.jpg\' alt=\'ca6\' target=\'iframe\'></a>',
-    DefaultImage:'/assets/blacklines/ca6/ca6blackline.jpg',
-    Images:[['/assets/images/ca6/Champions Circle Club.jpg',''],['/assets/images/ca6/A901 Clubhouse Floor Plan.jpg',''],['/assets/images/ca6/Champions Circle Bldg.jpg',''],['/assets/images/ca6/A401 BLDG TYPE 1 - LEVEL 1.jpg',''],['/assets/images/ca6/CA6 Landmark Aerial.jpg','']],
+    BackgroundImage:'background-image: url("/assets/images/plats/ca6.png")',
+    ButtonLink:'/assets/images/plats/ca6.png',
+    LargeDefault:'<a href="/assets/images/plats/ca6.png" target="_self"><img class=\'large-image\' src=\'/assets/images/plats/ca6.png\' alt=\'ca6\' target=\'iframe\'></a>',
+    DefaultImage:'/assets/images/plats/ca6.png',
+    Images:[['/assets/images/ca6/Champions Circle Club.jpg','Club House'],['/assets/images/ca6/A901 Clubhouse Floor Plan.jpg','Club House'],['/assets/images/ca6/Champions Circle Bldg.jpg','Apartment Building'],['/assets/images/ca6/A401 BLDG TYPE 1 - LEVEL 1.jpg','Apartment Building'],['/assets/images/ca10/CA10 Landmark Aerial.jpg','']],
     SaleStatus:'Under Development',
     Summary:'Multi-family Apartments<br/>Princeton, Texas',
-    Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.16806615060693%2C-96.48497231420123&z=15',
+    Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.19402936394459%2C-96.49917718572635&z=15',
     SVG:``,
     SVGMobile:``,
     SVGStyle:`
@@ -548,7 +548,7 @@ export const PROJECTS: Project[] = [
       position: absolute;
       z-index: 4;
       overflow-x: hidden;`,
-    Plat:'/assets/blacklines/ca6/ca6blackline.jpg',
+    Plat:'/assets/images/plats/ca6.png',
     Click:'hide',
     Details:'This beautiful townhome development sits just across the street from Princeton High School on Highway 380, making it a convenient walk away from all that Princeton downtown has to offer. The development\'s position relative to the highway also makes it a short drive away from major cities like Dallas, McKinney, Lucas, and Allen.',
     ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
@@ -916,7 +916,7 @@ export const PROJECTS: Project[] = [
     ButtonLink:'/assets/blacklines/ca10/ca10blackline.png',
     LargeDefault:'<iframe class=\'large-image\' width=\'1280\' height=\'720\' src=\'https://www.youtube.com/embed/auT4FnyclxE?rel=0\' frameborder=\'0\' allow=\'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\' allowfullscreen></iframe>',
     DefaultImage:'/assets/images/ca10/videoimage.jpg',
-    Images:[['/assets/images/ca10/CA10 Landmark Aerial.jpg',''],['/assets/images/ca10/ca10 data photo.jpg',''],['/assets/images/ca10/CA10 Entrance Perspective.jpg',''],['/assets/blacklines/ca10/ca10blackline.png',''],['/assets/images/ca10/6plex.jpg',''],['/assets/images/ca10/floorplans.jpg','']],
+    Images:[['/assets/images/ca10/CA10 Landmark Aerial.jpg',''],['/assets/images/ca10/commercial concept.jpg','Commercial Concept'],['/assets/images/ca10/ca10 data photo.jpg',''],['/assets/images/ca10/CA10 Entrance Perspective.jpg',''],['/assets/blacklines/ca10/ca10blackline.png',''],['/assets/images/ca6/Champions Circle Club.jpg','Club House'],['/assets/images/ca6/A901 Clubhouse Floor Plan.jpg','Club House'],['/assets/images/ca6/Champions Circle Bldg.jpg','Apartment Building'],['/assets/images/ca6/A401 BLDG TYPE 1 - LEVEL 1.jpg','Apartment Building']],
     SaleStatus:'70% Sold Out',
     Summary:'104 acres mixed-use<br/>Retail pads available<br/>Serving hundreds of new homes<br/>Princeton, Texas',
     Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.18197591139968%2C-96.50951048268962&z=14',
@@ -960,34 +960,6 @@ export const PROJECTS: Project[] = [
     Plat:'/assets/images/ca11/ext 3.JPG',
     Click:'show',
     Details:'The new Cope Tower will feature ground-floor retail, 5 stories of office space, and 4 stories of high-end residential at prospering Allen Gateway. Located just off of Sam Rayburn Tollway (US HWY 121), Allen Gateway is an up-and-coming, bustling city area. The area includes retail, residential, and entertainment, attracting prosperous millennials with the "live, work, play" lifestyle.',
-    ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
-    ContactName:'Mark Cope',
-    ContactPhone:2145925641,
-    ContactEmail:'MarkCope@CopeDFW.com',
-    BlankCell:'/'
-  },
-  {
-    id:12,
-    Title:'Cope Addition XII',
-    AdditionLogo:'background-image: url("/assets/images/ca12/ca12 map.jpg");',
-    BackgroundImage:'background-image: url("/assets/images/ca12/ca12 map.jpg")',
-    ButtonLink:'',
-    LargeDefault:'<a href="/assets/images/ca12/ca12 map.jpg"><img class=\'large-image\' src=\'/assets/images/ca12/ca12 map.jpg\' alt=\'ca12\'></a>',
-    DefaultImage:'/assets/images/ca12/ca12 map.jpg',
-    Images:[['/assets/images/ca12/ca12 plat.jpg','']],
-    SaleStatus:'Under Development',
-    Summary:'Mixed-use<br/>Frontage access<br/>Melissa, Texas',
-    Map:'https://www.google.com/maps/d/embed?mid=1UCoFUVlrDk2vQk4tRC5vDe4mTR9rHq2z&ll=33.288842584995926%2C-96.54809507769482&z=13',
-    SVG:``,
-    SVGMobile:``,
-    SVGStyle:`
-      width: 28vw;
-      position: absolute;
-      z-index: 4;
-      overflow-x: hidden;`,
-    Plat:'/assets/images/plats/ca12.jpg',
-    Click:'hide',
-    Details:'This new development will be a mixed-use center serving the growing city of Melissa, Texas, a suburb with easy access to Dallas, McKinney, Frisco, Allen, and Plano.',
     ContactImage:'background-image: url("/assets/images/employees/Mark.jpg")',
     ContactName:'Mark Cope',
     ContactPhone:2145925641,
