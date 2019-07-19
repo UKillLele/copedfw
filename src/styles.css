@@ -107,6 +107,15 @@ li {
   vertical-align: top;
   background-color: white;
 }
+.double-tombstone {
+  display: inline-block;
+  width: 60vw;
+  height: 80vh;
+  box-shadow: 0px 0px 7px black;
+  margin: auto 1.2vw;
+  vertical-align: top;
+  background-color: white;
+}
 .picture {
   height: 26vh;
   margin: 2vh;
@@ -116,6 +125,13 @@ li {
 }
 .details {
   height: 46vh;
+  margin: 0px;
+  padding: 2vh 2vw;
+  display: flex;
+  background-color: #f0f0f0;
+}
+.details-full {
+  height: 76vh;
   margin: 0px;
   padding: 2vh 2vw;
   display: flex;
@@ -310,6 +326,48 @@ a button {
   position: absolute;
 }
 
+.svg {
+  align-self: center;
+  position: absolute;
+  z-index: 4;
+  overflow-x: hidden;
+}
+#svg1 {
+  width: 50.5vw;
+  margin-top: 3%;
+  margin-left: 5%;
+  max-height: 37vh;
+}
+#svg2 {
+  width: 53vw;
+  margin-left: 1%;
+  max-height: 38.5vh;
+}
+#svg3 {
+  width: 51.5vw;
+  margin-top: -.5%;
+  margin-left: 2%;
+  max-height: 30vh;
+}
+#svg5 {
+  width: 51vw;
+  margin-top: .5%;
+  margin-left: 3.5%;
+  max-height: 66vh;
+}
+#svg7 {
+  width: 56.5vw;
+  margin-top: 13vh;
+  margin-left: .5%;
+  max-height: 28.75vh;
+}
+#svg8 {
+  width: 53vw;
+  margin-top: -.5%;
+  margin-left: 1.5%;
+  max-height: 52vh;
+}
+
 @media only screen and (max-width: 1023px) {
   html, body, .page, .content-container {
   }
@@ -337,7 +395,7 @@ a button {
     object-fit: contain;
     align-self: flex-start;
   }
-  .tombstone {
+  .tombstone, .double-tombstone {
     width: 98%;
     margin: 1vh 1%;
   }
@@ -345,43 +403,29 @@ a button {
     max-width: 100%;
   }
   #svg1 {
-    width: 80vw;
-    margin-top: 30%;
-    -webkit-transform: translateX(-32%);
-    -ms-transform: translateX(-32%);
-    transform: translateX(-32%);
+    width: 82vw;
+    margin-top: 5%;
+    margin-left: 7.5%;
   }
   #svg2 {
-    width: 83vw;
-    -webkit-transform: translateX(-36.5%);
-    -ms-transform: translateX(-36.5%);
-    transform: translateX(-36.5%);
+    width: 82vw;
+    margin-left: 1%;
   }
   #svg3 {
     width: 79.5vw;
-    -webkit-transform: translateX(-35.5%);
-    -ms-transform: translateX(-35.5%);
-    transform: translateX(-35.5%);
-  }
-  #svg4 {
-    width: 48vw;
-    -webkit-transform: translateX(-23%);
-    -ms-transform: translateX(-23%);
-    transform: translateX(-23%);
+    margin-left: 3%;
   }
   #svg5 {
-    width: 47.75vh;
-    -webkit-transform: translateX(-33%);
-    -ms-transform: translateX(-33%);
-    transform: translateX(-33%);
+    width: 88vw;
+    margin-left: 0;
   }
   #svg7 {
-    width: 18.25vh;
-    -webkit-transform: translateX(-10.5vh);
-    -ms-transform: translateX(-10.5vh);
-    transform: translateX(-10.5vh);
+    width: 88vw;
+    margin-top: 13%;
   }
   #svg8 {
+    width: 81vw;
+    margin-left: 3%;
   }
   #svg9 {
   }

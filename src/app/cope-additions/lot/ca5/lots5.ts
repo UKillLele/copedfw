@@ -36,7 +36,7 @@ export const LOTS5: Lot[] = [
     "ContactName":"Blaine Rindlisbacher",
     "ContactEmail":"sales@copedfw.com",
     "ContactPhone":9035209410,
-    "Images":['/assets/blacklines/ca5/a2.jpg','/assets/images/houses/Jefferson/Jefferson A front iso.jpg','/assets/images/houses/Jefferson/Jefferson A first floor iso.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor iso.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
+    "Images":['/assets/images/houses/Jefferson/Jefferson A Front Elevation.jpg','/assets/images/houses/Jefferson/Jefferson A Interior 1.jpg','/assets/images/houses/Jefferson/Jefferson A Master.jpg','/assets/images/houses/Jefferson/Jefferson A Master Bath.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/a2.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
     "BlankCell":"/"
   },
   {
@@ -188,7 +188,7 @@ export const LOTS5: Lot[] = [
     "ContactName":"Blaine Rindlisbacher",
     "ContactEmail":"sales@copedfw.com",
     "ContactPhone":9035209410,
-    "Images":['/assets/blacklines/ca5/a10.jpg','/assets/images/houses/Jefferson/Jefferson B.jpg','/assets/images/houses/Jefferson/Jefferson B left.jpg','/assets/images/houses/Jefferson/Jefferson B first floor.jpg','/assets/images/houses/Jefferson/Jefferson B second.jpg','/assets/images/houses/Jefferson/Jefferson B Floorplans-01.jpg','/assets/images/houses/Jefferson/Jefferson B Floorplans-02.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
+    "Images":['/assets/images/houses/Jefferson/Jefferson A Front Elevation.jpg','/assets/images/houses/Jefferson/Jefferson A Interior 1.jpg','/assets/images/houses/Jefferson/Jefferson A Master.jpg','/assets/images/houses/Jefferson/Jefferson A Master Bath.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/a10.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
     "BlankCell":"/"
   },
   {
@@ -226,7 +226,7 @@ export const LOTS5: Lot[] = [
     "ContactName":"Blaine Rindlisbacher",
     "ContactEmail":"sales@copedfw.com",
     "ContactPhone":9035209410,
-    "Images":['/assets/blacklines/ca5/a12.jpg','/assets/images/houses/Jefferson/Jefferson A front iso.jpg','/assets/images/houses/Jefferson/Jefferson A first floor iso.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor iso.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
+    "Images":['/assets/images/houses/Jefferson/Jefferson A Front Elevation.jpg','/assets/images/houses/Jefferson/Jefferson A Interior 1.jpg','/assets/images/houses/Jefferson/Jefferson A Master.jpg','/assets/images/houses/Jefferson/Jefferson A Master Bath.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/a12.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
     "BlankCell":"/"
   },
   {
@@ -631,7 +631,7 @@ export const LOTS5: Lot[] = [
     "ContactName":"Blaine Rindlisbacher",
     "ContactEmail":"sales@copedfw.com",
     "ContactPhone":9035209410,
-    "Images":['/assets/images/houses/Jefferson/Jefferson B.jpg','/assets/images/houses/Jefferson/Jefferson B left.jpg','/assets/images/houses/Jefferson/Jefferson B first floor.jpg','/assets/images/houses/Jefferson/Jefferson B second.jpg','/assets/images/houses/Jefferson/Jefferson B Floorplans-01.jpg','/assets/images/houses/Jefferson/Jefferson B Floorplans-02.jpg','/assets/blacklines/ca5/b20.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
+    "Images":['/assets/images/houses/Jefferson/Jefferson A Front Elevation.jpg','/assets/images/houses/Jefferson/Jefferson A Interior 1.jpg','/assets/images/houses/Jefferson/Jefferson A Master.jpg','/assets/images/houses/Jefferson/Jefferson A Master Bath.jpg','/assets/images/houses/Jefferson/Jefferson A first floor plan.jpg','/assets/images/houses/Jefferson/Jefferson A second floor plan.jpg','/assets/blacklines/ca5/b20.jpg','/assets/blacklines/ca5/Final blackline.jpg','/assets/images/ca5/aerial1.jpg','/assets/images/ca5/aerial2.jpg'],
     "BlankCell":"/"
   },
   {

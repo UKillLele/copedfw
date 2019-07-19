@@ -72,7 +72,7 @@ a:hover {
 }
 .dropdown-content a {
   padding: 1vh 5px;
-  line-height: normal;
+  line-height: 1em;
   display: block;
 }
 

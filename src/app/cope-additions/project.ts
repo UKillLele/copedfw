@@ -12,7 +12,6 @@ export class Project {
   Map: string;
   SVG: string;
   SVGMobile: string;
-  SVGStyle: string;
   Plat: string;
   Click: string;
   Details: string;

@@ -89,10 +89,6 @@ export class ProjectComponent implements OnInit {
     }
   }
 
-  svgStyle(project: { SVGStyle: string; }) {
-    return this.sanitizer.bypassSecurityTrustStyle(project.SVGStyle);
-  }
-
   factHTML(fact: string) {
     return this.sanitizer.bypassSecurityTrustHtml(fact)
   }

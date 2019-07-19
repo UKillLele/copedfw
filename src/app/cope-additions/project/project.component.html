@@ -37,26 +37,17 @@
 
 <!-- tombstone section -->
     <div class="row even">
-<!-- logo and description -->
-      <div class="tombstone">
-        <div class="picture" [style]="logoStyle(project)">
-        </div>
-        <div class="details">
-          <p class="details-text">{{project.Details}}</p>
-        </div>
-      </div>
-<!-- plat map -->
-      <div class="tombstone">
+      <div class="double-tombstone">
         <div class="plat-map">
-          <div [style]="svgStyle(project)" [innerHTML]="svgHTML(project)" (click)="openLot()"></div>
+          <div style="display: flex;" [innerHTML]="svgHTML(project)" (click)="openLot()"></div>
           <img class="plat-image" src="{{project.Plat}}" alt="plat map">
         </div>
-        <div class="{{project.Click}}">
-          <p>Click on lots in plat for details</p>
+        <div class="show" *ngIf="project.SVG !== ''">
+          <p>Click for details</p>
         </div>
       </div>
 <!-- contact -->
-      <div class="tombstone">
+      <div class="tombstone" *ngIf="project.Click === 'homes'">
         <div class="picture" [style]="contactStyle(project)">
         </div>
         <div class="details">
@@ -66,6 +57,14 @@
             <p><a href="mailto:{{project.ContactEmail}}?subject={{project.Title}}">{{project.ContactEmail}}</a></p>
             <br/>
             <p><a href="https://aemtexas.com" style="color:maroon;">Get a mortgage with<br/>American Equities Mortgage</a></p>
+          </div>
+        </div>
+      </div>
+<!-- contact -->
+      <div class="tombstone" *ngIf="project.Click === 'details'">
+        <div class="details-full">
+          <div class="details-text">
+            <p>{{project.Details}}</p>
           </div>
         </div>
       </div>
