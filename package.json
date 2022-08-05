@@ -25,7 +25,7 @@
     "express": "^4.16.4",
     "image-map-resizer": "^1.0.7",
     "json-server": "^0.14.2",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "ng-inline-svg": "^8.3.0",
     "nodemailer": "^5.1.1",
     "rxjs": "^6.5.2",
